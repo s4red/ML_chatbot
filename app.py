@@ -18,6 +18,9 @@ from utils.llm_handler import LLMHandler
 
 load_dotenv()
 
+# Allow API key to be passed via query param or env (useful for HF Spaces)
+_env_key = os.getenv("ANTHROPIC_API_KEY", "")
+
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="AI Data Chatbot",
@@ -52,6 +55,26 @@ if "data_source" not in st.session_state:
 with st.sidebar:
     st.markdown("## 📊 AI Data Chatbot")
     st.markdown("Ask questions about your data in plain English.")
+    st.divider()
+
+    # ── API Key input ──────────────────────────────────────────────────────────
+    st.markdown("### 🔑 Anthropic API Key")
+    if _env_key:
+        st.success("API key loaded from environment.", icon="✅")
+        api_key = _env_key
+    else:
+        api_key = st.text_input(
+            "Enter your API key",
+            type="password",
+            placeholder="sk-ant-...",
+            help="Get a free key at console.anthropic.com/settings/keys",
+        )
+        if not api_key:
+            st.info("Enter your Anthropic API key above to get started.")
+
+    if api_key:
+        os.environ["ANTHROPIC_API_KEY"] = api_key
+
     st.divider()
 
     # Data source selection
@@ -131,8 +154,12 @@ with st.sidebar:
 st.markdown('<div class="chat-header">📊 AI Data Chatbot</div>', unsafe_allow_html=True)
 st.markdown("Ask questions about your data — get tables **and** charts automatically.")
 
+if not os.getenv("ANTHROPIC_API_KEY"):
+    st.warning("⬅️ Enter your Anthropic API key in the sidebar to get started.")
+    st.stop()
+
 if st.session_state.df is None:
-    st.info("Load a dataset from the sidebar to get started.")
+    st.info("⬅️ Load a dataset from the sidebar to get started.")
     st.stop()
 
 # Render existing conversation
