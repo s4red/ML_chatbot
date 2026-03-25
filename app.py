@@ -19,7 +19,7 @@ from utils.llm_handler import LLMHandler
 load_dotenv()
 
 # Allow API key to be passed via query param or env (useful for HF Spaces)
-_env_key = os.getenv("ANTHROPIC_API_KEY", "")
+_env_key = os.getenv("GEMINI_API_KEY", "")
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -58,22 +58,22 @@ with st.sidebar:
     st.divider()
 
     # ── API Key input ──────────────────────────────────────────────────────────
-    st.markdown("### 🔑 Anthropic API Key")
+    st.markdown("### 🔑 Gemini API Key")
     if _env_key:
         st.success("API key loaded from environment.", icon="✅")
         api_key = _env_key
     else:
         api_key = st.text_input(
-            "Enter your API key",
+            "Enter your Gemini API key",
             type="password",
-            placeholder="sk-ant-...",
-            help="Get a free key at console.anthropic.com/settings/keys",
+            placeholder="AIza...",
+            help="Get a free key at aistudio.google.com/apikey",
         )
         if not api_key:
-            st.info("Enter your Anthropic API key above to get started.")
+            st.info("Enter your Gemini API key above to get started. Free at aistudio.google.com/apikey")
 
     if api_key:
-        os.environ["ANTHROPIC_API_KEY"] = api_key
+        os.environ["GEMINI_API_KEY"] = api_key
 
     st.divider()
 
@@ -154,8 +154,8 @@ with st.sidebar:
 st.markdown('<div class="chat-header">📊 AI Data Chatbot</div>', unsafe_allow_html=True)
 st.markdown("Ask questions about your data — get tables **and** charts automatically.")
 
-if not os.getenv("ANTHROPIC_API_KEY"):
-    st.warning("⬅️ Enter your Anthropic API key in the sidebar to get started.")
+if not os.getenv("GEMINI_API_KEY"):
+    st.warning("⬅️ Enter your Gemini API key in the sidebar to get started. Free at aistudio.google.com/apikey")
     st.stop()
 
 if st.session_state.df is None:

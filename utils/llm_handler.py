@@ -1,7 +1,8 @@
-"""Claude API integration for natural language → data analysis code generation."""
+"""Gemini API integration for natural language → data analysis code generation."""
+import os
 import json
 import re
-import anthropic
+import google.generativeai as genai
 
 SYSTEM_PROMPT = """You are an expert data analyst AI assistant. Users ask questions about their dataset and you generate executable Python code to answer those questions with pandas and plotly visualizations.
 
@@ -52,45 +53,39 @@ viz_code: "fig = px.bar(result_df, x='full_name', y='salary', color='department'
 
 class LLMHandler:
     def __init__(self):
-        self.client = anthropic.Anthropic()
+        self.chat = None
         self.conversation_history = []
+
+    def _get_model(self):
+        api_key = os.getenv("GEMINI_API_KEY", "")
+        if not api_key:
+            raise ValueError("GEMINI_API_KEY is not set.")
+        genai.configure(api_key=api_key)
+        return genai.GenerativeModel("gemini-2.0-flash", system_instruction=SYSTEM_PROMPT)
 
     def reset_conversation(self):
         self.conversation_history = []
+        self.chat = None
 
     def generate_analysis(self, question: str, schema_info: str, sample_rows: str) -> dict:
-        user_message = f"""Dataset Schema:
-{schema_info}
-
-Sample data (first 5 rows):
-{sample_rows}
-
-User question: {question}
-
-Generate the pandas + plotly code to answer this question. Remember: respond with ONLY the JSON object."""
-
-        self.conversation_history.append({"role": "user", "content": user_message})
-
-        response = self.client.messages.create(
-            model="claude-opus-4-6",
-            max_tokens=4096,
-            thinking={"type": "adaptive"},
-            system=SYSTEM_PROMPT,
-            messages=self.conversation_history,
+        user_message = (
+            "Dataset Schema:\n" + schema_info +
+            "\n\nSample data (first 5 rows):\n" + sample_rows +
+            "\n\nUser question: " + question +
+            "\n\nGenerate the pandas + plotly code to answer this question. Remember: respond with ONLY the JSON object."
         )
 
-        raw_text = next(
-            (block.text for block in response.content if block.type == "text"), ""
-        )
+        if self.chat is None:
+            model = self._get_model()
+            self.chat = model.start_chat(history=[])
 
-        self.conversation_history.append({"role": "assistant", "content": raw_text})
+        response = self.chat.send_message(user_message)
+        raw_text = response.text
 
         return self._parse_response(raw_text)
 
     def _parse_response(self, raw_text: str) -> dict:
         text = raw_text.strip()
-
-        # Strip markdown code fences if present
         text = re.sub(r"^```(?:json)?\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
         text = text.strip()
@@ -98,7 +93,6 @@ Generate the pandas + plotly code to answer this question. Remember: respond wit
         try:
             result = json.loads(text)
         except json.JSONDecodeError:
-            # Try to extract JSON object from the text
             match = re.search(r"\{[\s\S]*\}", text)
             if match:
                 try:
