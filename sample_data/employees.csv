@@ -1,0 +1,810 @@
+employee_id,first_name,last_name,full_name,department,job_title,salary,year,hire_date,location,employment_type
+1001,Hannah,Johnson,Hannah Johnson,Engineering,Junior Software Engineer,84135,2021,2020-04-08,San Francisco,Full-time
+1001,Hannah,Johnson,Hannah Johnson,Engineering,Junior Software Engineer,77368,2022,2020-04-08,San Francisco,Full-time
+1001,Hannah,Johnson,Hannah Johnson,Engineering,Junior Software Engineer,76152,2023,2020-04-08,San Francisco,Full-time
+1001,Hannah,Johnson,Hannah Johnson,Engineering,Junior Software Engineer,82616,2024,2020-04-08,San Francisco,Full-time
+1002,Michael,Rivera,Michael Rivera,Engineering,Junior Software Engineer,78757,2022,2022-07-08,Chicago,Contract
+1002,Michael,Rivera,Michael Rivera,Engineering,Junior Software Engineer,73195,2023,2022-07-08,Chicago,Contract
+1002,Michael,Rivera,Michael Rivera,Engineering,Junior Software Engineer,77607,2024,2022-07-08,Chicago,Contract
+1003,Nina,Carter,Nina Carter,Engineering,Junior Software Engineer,74606,2021,2020-02-03,Chicago,Full-time
+1003,Nina,Carter,Nina Carter,Engineering,Junior Software Engineer,72771,2022,2020-02-03,Chicago,Full-time
+1003,Nina,Carter,Nina Carter,Engineering,Junior Software Engineer,79432,2023,2020-02-03,Chicago,Full-time
+1003,Nina,Carter,Nina Carter,Engineering,Junior Software Engineer,90350,2024,2020-02-03,Chicago,Full-time
+1004,Sam,Green,Sam Green,Engineering,Junior Software Engineer,69521,2022,2022-06-19,San Francisco,Full-time
+1004,Sam,Green,Sam Green,Engineering,Junior Software Engineer,70385,2023,2022-06-19,San Francisco,Full-time
+1004,Sam,Green,Sam Green,Engineering,Junior Software Engineer,73449,2024,2022-06-19,San Francisco,Full-time
+1005,Rachel,Robinson,Rachel Robinson,Engineering,Junior Software Engineer,81194,2021,2020-03-12,Austin,Full-time
+1005,Rachel,Robinson,Rachel Robinson,Engineering,Junior Software Engineer,76179,2022,2020-03-12,Austin,Full-time
+1005,Rachel,Robinson,Rachel Robinson,Engineering,Junior Software Engineer,88490,2023,2020-03-12,Austin,Full-time
+1005,Rachel,Robinson,Rachel Robinson,Engineering,Junior Software Engineer,86015,2024,2020-03-12,Austin,Full-time
+1006,Rachel,Green,Rachel Green,Engineering,Junior Software Engineer,66702,2022,2022-04-22,Austin,Full-time
+1006,Rachel,Green,Rachel Green,Engineering,Junior Software Engineer,73303,2023,2022-04-22,Austin,Full-time
+1006,Rachel,Green,Rachel Green,Engineering,Junior Software Engineer,86422,2024,2022-04-22,Austin,Full-time
+1007,Tara,Lee,Tara Lee,Engineering,Junior Software Engineer,73414,2021,2019-11-16,Chicago,Full-time
+1007,Tara,Lee,Tara Lee,Engineering,Junior Software Engineer,89957,2022,2019-11-16,Chicago,Full-time
+1007,Tara,Lee,Tara Lee,Engineering,Junior Software Engineer,93977,2023,2019-11-16,Chicago,Full-time
+1007,Tara,Lee,Tara Lee,Engineering,Junior Software Engineer,95249,2024,2019-11-16,Chicago,Full-time
+1008,Ivan,Allen,Ivan Allen,Engineering,Junior Software Engineer,68543,2021,2021-02-25,New York,Full-time
+1008,Ivan,Allen,Ivan Allen,Engineering,Junior Software Engineer,79619,2022,2021-02-25,New York,Full-time
+1008,Ivan,Allen,Ivan Allen,Engineering,Junior Software Engineer,82370,2023,2021-02-25,New York,Full-time
+1008,Ivan,Allen,Ivan Allen,Engineering,Junior Software Engineer,81660,2024,2021-02-25,New York,Full-time
+1009,Alice,Baker,Alice Baker,Engineering,Software Engineer,126531,2021,2018-11-18,Boston,Full-time
+1009,Alice,Baker,Alice Baker,Engineering,Software Engineer,119009,2022,2018-11-18,Boston,Full-time
+1009,Alice,Baker,Alice Baker,Engineering,Software Engineer,129667,2023,2018-11-18,Boston,Full-time
+1009,Alice,Baker,Alice Baker,Engineering,Software Engineer,171682,2024,2018-11-18,Boston,Full-time
+1010,Will,Lopez,Will Lopez,Engineering,Software Engineer,107260,2022,2022-02-28,Seattle,Full-time
+1010,Will,Lopez,Will Lopez,Engineering,Software Engineer,108624,2023,2022-02-28,Seattle,Full-time
+1010,Will,Lopez,Will Lopez,Engineering,Software Engineer,125674,2024,2022-02-28,Seattle,Full-time
+1011,Henry,Smith,Henry Smith,Engineering,Software Engineer,115053,2022,2022-06-16,New York,Full-time
+1011,Henry,Smith,Henry Smith,Engineering,Software Engineer,110435,2023,2022-06-16,New York,Full-time
+1011,Henry,Smith,Henry Smith,Engineering,Software Engineer,122731,2024,2022-06-16,New York,Full-time
+1012,Fiona,Garcia,Fiona Garcia,Engineering,Software Engineer,106580,2021,2021-02-25,Remote,Full-time
+1012,Fiona,Garcia,Fiona Garcia,Engineering,Software Engineer,108039,2022,2021-02-25,Remote,Full-time
+1012,Fiona,Garcia,Fiona Garcia,Engineering,Software Engineer,121589,2023,2021-02-25,Remote,Full-time
+1012,Fiona,Garcia,Fiona Garcia,Engineering,Software Engineer,121607,2024,2021-02-25,Remote,Full-time
+1013,Uri,Hall,Uri Hall,Engineering,Software Engineer,118914,2021,2019-12-10,Chicago,Full-time
+1013,Uri,Hall,Uri Hall,Engineering,Software Engineer,112676,2022,2019-12-10,Chicago,Full-time
+1013,Uri,Hall,Uri Hall,Engineering,Software Engineer,130879,2023,2019-12-10,Chicago,Full-time
+1013,Uri,Hall,Uri Hall,Engineering,Software Engineer,124049,2024,2019-12-10,Chicago,Full-time
+1014,Ethan,Rivera,Ethan Rivera,Engineering,Software Engineer,112168,2021,2018-04-03,New York,Full-time
+1014,Ethan,Rivera,Ethan Rivera,Engineering,Software Engineer,129304,2022,2018-04-03,New York,Full-time
+1014,Ethan,Rivera,Ethan Rivera,Engineering,Software Engineer,139144,2023,2018-04-03,New York,Full-time
+1014,Ethan,Rivera,Ethan Rivera,Engineering,Software Engineer,149875,2024,2018-04-03,New York,Full-time
+1015,Elena,Clark,Elena Clark,Engineering,Software Engineer,115515,2021,2019-02-04,Seattle,Full-time
+1015,Elena,Clark,Elena Clark,Engineering,Software Engineer,120807,2022,2019-02-04,Seattle,Full-time
+1015,Elena,Clark,Elena Clark,Engineering,Software Engineer,140494,2023,2019-02-04,Seattle,Full-time
+1015,Elena,Clark,Elena Clark,Engineering,Software Engineer,131633,2024,2019-02-04,Seattle,Full-time
+1016,Priya,Gonzalez,Priya Gonzalez,Engineering,Senior Software Engineer,153077,2021,2019-09-15,San Francisco,Full-time
+1016,Priya,Gonzalez,Priya Gonzalez,Engineering,Senior Software Engineer,162051,2022,2019-09-15,San Francisco,Full-time
+1016,Priya,Gonzalez,Priya Gonzalez,Engineering,Senior Software Engineer,200546,2023,2019-09-15,San Francisco,Full-time
+1016,Priya,Gonzalez,Priya Gonzalez,Engineering,Senior Software Engineer,174573,2024,2019-09-15,San Francisco,Full-time
+1017,Iris,Smith,Iris Smith,Engineering,Senior Software Engineer,179195,2021,2018-04-06,Chicago,Full-time
+1017,Iris,Smith,Iris Smith,Engineering,Senior Software Engineer,178245,2022,2018-04-06,Chicago,Full-time
+1017,Iris,Smith,Iris Smith,Engineering,Senior Software Engineer,162072,2023,2018-04-06,Chicago,Full-time
+1017,Iris,Smith,Iris Smith,Engineering,Senior Software Engineer,234432,2024,2018-04-06,Chicago,Full-time
+1018,Sam,Ramirez,Sam Ramirez,Engineering,Senior Software Engineer,134895,2022,2022-11-23,Chicago,Full-time
+1018,Sam,Ramirez,Sam Ramirez,Engineering,Senior Software Engineer,154319,2023,2022-11-23,Chicago,Full-time
+1018,Sam,Ramirez,Sam Ramirez,Engineering,Senior Software Engineer,146824,2024,2022-11-23,Chicago,Full-time
+1019,Leo,Walker,Leo Walker,Engineering,Staff Engineer,167503,2022,2022-09-06,New York,Contract
+1019,Leo,Walker,Leo Walker,Engineering,Staff Engineer,195664,2023,2022-09-06,New York,Contract
+1019,Leo,Walker,Leo Walker,Engineering,Staff Engineer,179281,2024,2022-09-06,New York,Contract
+1020,Kate,Thomas,Kate Thomas,Engineering,Staff Engineer,181428,2022,2022-10-02,Remote,Full-time
+1020,Kate,Thomas,Kate Thomas,Engineering,Staff Engineer,204589,2023,2022-10-02,Remote,Full-time
+1020,Kate,Thomas,Kate Thomas,Engineering,Staff Engineer,201332,2024,2022-10-02,Remote,Full-time
+1021,Priya,Taylor,Priya Taylor,Engineering,Staff Engineer,193515,2021,2021-03-22,Seattle,Full-time
+1021,Priya,Taylor,Priya Taylor,Engineering,Staff Engineer,173713,2022,2021-03-22,Seattle,Full-time
+1021,Priya,Taylor,Priya Taylor,Engineering,Staff Engineer,203445,2023,2021-03-22,Seattle,Full-time
+1021,Priya,Taylor,Priya Taylor,Engineering,Staff Engineer,199366,2024,2021-03-22,Seattle,Full-time
+1022,Quinn,Rodriguez,Quinn Rodriguez,Engineering,Principal Engineer,236863,2021,2020-02-08,Austin,Full-time
+1022,Quinn,Rodriguez,Quinn Rodriguez,Engineering,Principal Engineer,248353,2022,2020-02-08,Austin,Full-time
+1022,Quinn,Rodriguez,Quinn Rodriguez,Engineering,Principal Engineer,277484,2023,2020-02-08,Austin,Full-time
+1022,Quinn,Rodriguez,Quinn Rodriguez,Engineering,Principal Engineer,256463,2024,2020-02-08,Austin,Full-time
+1023,Tina,Nelson,Tina Nelson,Engineering,Principal Engineer,242706,2021,2018-03-09,New York,Full-time
+1023,Tina,Nelson,Tina Nelson,Engineering,Principal Engineer,240103,2022,2018-03-09,New York,Full-time
+1023,Tina,Nelson,Tina Nelson,Engineering,Principal Engineer,279596,2023,2018-03-09,New York,Full-time
+1023,Tina,Nelson,Tina Nelson,Engineering,Principal Engineer,326600,2024,2018-03-09,New York,Full-time
+1024,Quinn,Brown,Quinn Brown,Engineering,Principal Engineer,227880,2021,2018-11-14,Boston,Full-time
+1024,Quinn,Brown,Quinn Brown,Engineering,Principal Engineer,270528,2022,2018-11-14,Boston,Full-time
+1024,Quinn,Brown,Quinn Brown,Engineering,Principal Engineer,255264,2023,2018-11-14,Boston,Full-time
+1024,Quinn,Brown,Quinn Brown,Engineering,Principal Engineer,316786,2024,2018-11-14,Boston,Full-time
+1025,Hannah,Jones,Hannah Jones,Engineering,Principal Engineer,223698,2021,2019-09-02,Boston,Full-time
+1025,Hannah,Jones,Hannah Jones,Engineering,Principal Engineer,229469,2022,2019-09-02,Boston,Full-time
+1025,Hannah,Jones,Hannah Jones,Engineering,Principal Engineer,302609,2023,2019-09-02,Boston,Full-time
+1025,Hannah,Jones,Hannah Jones,Engineering,Principal Engineer,328546,2024,2019-09-02,Boston,Full-time
+1026,Nina,Baker,Nina Baker,Engineering,Principal Engineer,242632,2021,2019-11-04,Austin,Contract
+1026,Nina,Baker,Nina Baker,Engineering,Principal Engineer,238531,2022,2019-11-04,Austin,Contract
+1026,Nina,Baker,Nina Baker,Engineering,Principal Engineer,308215,2023,2019-11-04,Austin,Contract
+1026,Nina,Baker,Nina Baker,Engineering,Principal Engineer,332073,2024,2019-11-04,Austin,Contract
+1027,Amelia,Johnson,Amelia Johnson,Engineering,Principal Engineer,262798,2021,2019-12-11,Boston,Full-time
+1027,Amelia,Johnson,Amelia Johnson,Engineering,Principal Engineer,250783,2022,2019-12-11,Boston,Full-time
+1027,Amelia,Johnson,Amelia Johnson,Engineering,Principal Engineer,258585,2023,2019-12-11,Boston,Full-time
+1027,Amelia,Johnson,Amelia Johnson,Engineering,Principal Engineer,327008,2024,2019-12-11,Boston,Full-time
+1028,Omar,Gonzalez,Omar Gonzalez,Engineering,Principal Engineer,220921,2021,2021-06-10,Boston,Full-time
+1028,Omar,Gonzalez,Omar Gonzalez,Engineering,Principal Engineer,215130,2022,2021-06-10,Boston,Full-time
+1028,Omar,Gonzalez,Omar Gonzalez,Engineering,Principal Engineer,241040,2023,2021-06-10,Boston,Full-time
+1028,Omar,Gonzalez,Omar Gonzalez,Engineering,Principal Engineer,246690,2024,2021-06-10,Boston,Full-time
+1029,Iris,Perez,Iris Perez,Engineering,Engineering Manager,225598,2021,2018-02-09,San Francisco,Contract
+1029,Iris,Perez,Iris Perez,Engineering,Engineering Manager,214106,2022,2018-02-09,San Francisco,Contract
+1029,Iris,Perez,Iris Perez,Engineering,Engineering Manager,250763,2023,2018-02-09,San Francisco,Contract
+1029,Iris,Perez,Iris Perez,Engineering,Engineering Manager,268745,2024,2018-02-09,San Francisco,Contract
+1030,Yara,Torres,Yara Torres,Engineering,Engineering Manager,216932,2021,2019-05-02,Seattle,Full-time
+1030,Yara,Torres,Yara Torres,Engineering,Engineering Manager,232378,2022,2019-05-02,Seattle,Full-time
+1030,Yara,Torres,Yara Torres,Engineering,Engineering Manager,252860,2023,2019-05-02,Seattle,Full-time
+1030,Yara,Torres,Yara Torres,Engineering,Engineering Manager,218655,2024,2019-05-02,Seattle,Full-time
+1031,Qian,Perez,Qian Perez,Engineering,Engineering Manager,181311,2022,2022-06-22,Boston,Full-time
+1031,Qian,Perez,Qian Perez,Engineering,Engineering Manager,193735,2023,2022-06-22,Boston,Full-time
+1031,Qian,Perez,Qian Perez,Engineering,Engineering Manager,199751,2024,2022-06-22,Boston,Full-time
+1032,Ivan,Gonzalez,Ivan Gonzalez,Engineering,Engineering Manager,181335,2021,2021-11-13,Seattle,Full-time
+1032,Ivan,Gonzalez,Ivan Gonzalez,Engineering,Engineering Manager,179984,2022,2021-11-13,Seattle,Full-time
+1032,Ivan,Gonzalez,Ivan Gonzalez,Engineering,Engineering Manager,202977,2023,2021-11-13,Seattle,Full-time
+1032,Ivan,Gonzalez,Ivan Gonzalez,Engineering,Engineering Manager,230906,2024,2021-11-13,Seattle,Full-time
+1033,David,Lewis,David Lewis,Engineering,Engineering Manager,205713,2021,2021-11-07,Remote,Full-time
+1033,David,Lewis,David Lewis,Engineering,Engineering Manager,207574,2022,2021-11-07,Remote,Full-time
+1033,David,Lewis,David Lewis,Engineering,Engineering Manager,212355,2023,2021-11-07,Remote,Full-time
+1033,David,Lewis,David Lewis,Engineering,Engineering Manager,207390,2024,2021-11-07,Remote,Full-time
+1034,Will,Thomas,Will Thomas,Engineering,Engineering Manager,184855,2021,2020-04-26,San Francisco,Full-time
+1034,Will,Thomas,Will Thomas,Engineering,Engineering Manager,223902,2022,2020-04-26,San Francisco,Full-time
+1034,Will,Thomas,Will Thomas,Engineering,Engineering Manager,204896,2023,2020-04-26,San Francisco,Full-time
+1034,Will,Thomas,Will Thomas,Engineering,Engineering Manager,225216,2024,2020-04-26,San Francisco,Full-time
+1035,Steve,Harris,Steve Harris,Engineering,Engineering Manager,202036,2021,2021-07-08,San Francisco,Full-time
+1035,Steve,Harris,Steve Harris,Engineering,Engineering Manager,213782,2022,2021-07-08,San Francisco,Full-time
+1035,Steve,Harris,Steve Harris,Engineering,Engineering Manager,216660,2023,2021-07-08,San Francisco,Full-time
+1035,Steve,Harris,Steve Harris,Engineering,Engineering Manager,226225,2024,2021-07-08,San Francisco,Full-time
+1036,James,Thomas,James Thomas,Engineering,Engineering Manager,248607,2021,2018-08-05,Boston,Full-time
+1036,James,Thomas,James Thomas,Engineering,Engineering Manager,259029,2022,2018-08-05,Boston,Full-time
+1036,James,Thomas,James Thomas,Engineering,Engineering Manager,276335,2023,2018-08-05,Boston,Full-time
+1036,James,Thomas,James Thomas,Engineering,Engineering Manager,277097,2024,2018-08-05,Boston,Full-time
+1037,Clara,Hernandez,Clara Hernandez,Data,Data Analyst,73159,2021,2021-08-09,Boston,Full-time
+1037,Clara,Hernandez,Clara Hernandez,Data,Data Analyst,81522,2022,2021-08-09,Boston,Full-time
+1037,Clara,Hernandez,Clara Hernandez,Data,Data Analyst,82075,2023,2021-08-09,Boston,Full-time
+1037,Clara,Hernandez,Clara Hernandez,Data,Data Analyst,87764,2024,2021-08-09,Boston,Full-time
+1038,Victor,Lee,Victor Lee,Data,Data Analyst,71292,2022,2022-02-05,San Francisco,Full-time
+1038,Victor,Lee,Victor Lee,Data,Data Analyst,78284,2023,2022-02-05,San Francisco,Full-time
+1038,Victor,Lee,Victor Lee,Data,Data Analyst,83227,2024,2022-02-05,San Francisco,Full-time
+1039,Diana,Wilson,Diana Wilson,Data,Data Analyst,80483,2021,2021-07-25,Remote,Full-time
+1039,Diana,Wilson,Diana Wilson,Data,Data Analyst,72475,2022,2021-07-25,Remote,Full-time
+1039,Diana,Wilson,Diana Wilson,Data,Data Analyst,88126,2023,2021-07-25,Remote,Full-time
+1039,Diana,Wilson,Diana Wilson,Data,Data Analyst,102814,2024,2021-07-25,Remote,Full-time
+1040,Amelia,Wright,Amelia Wright,Data,Data Analyst,76284,2022,2022-10-08,Chicago,Full-time
+1040,Amelia,Wright,Amelia Wright,Data,Data Analyst,82940,2023,2022-10-08,Chicago,Full-time
+1040,Amelia,Wright,Amelia Wright,Data,Data Analyst,91418,2024,2022-10-08,Chicago,Full-time
+1041,David,Rodriguez,David Rodriguez,Data,Data Analyst,69406,2022,2022-09-01,Chicago,Contract
+1041,David,Rodriguez,David Rodriguez,Data,Data Analyst,75449,2023,2022-09-01,Chicago,Contract
+1041,David,Rodriguez,David Rodriguez,Data,Data Analyst,77356,2024,2022-09-01,Chicago,Contract
+1042,Yara,Lee,Yara Lee,Data,Data Analyst,90741,2021,2019-08-11,Austin,Full-time
+1042,Yara,Lee,Yara Lee,Data,Data Analyst,94664,2022,2019-08-11,Austin,Full-time
+1042,Yara,Lee,Yara Lee,Data,Data Analyst,98839,2023,2019-08-11,Austin,Full-time
+1042,Yara,Lee,Yara Lee,Data,Data Analyst,97769,2024,2019-08-11,Austin,Full-time
+1043,Omar,Adams,Omar Adams,Data,Data Analyst,90054,2021,2018-11-02,Boston,Full-time
+1043,Omar,Adams,Omar Adams,Data,Data Analyst,80550,2022,2018-11-02,Boston,Full-time
+1043,Omar,Adams,Omar Adams,Data,Data Analyst,94473,2023,2018-11-02,Boston,Full-time
+1043,Omar,Adams,Omar Adams,Data,Data Analyst,101474,2024,2018-11-02,Boston,Full-time
+1044,Quinn,Roberts,Quinn Roberts,Data,Senior Data Analyst,101838,2021,2020-03-20,Remote,Full-time
+1044,Quinn,Roberts,Quinn Roberts,Data,Senior Data Analyst,113224,2022,2020-03-20,Remote,Full-time
+1044,Quinn,Roberts,Quinn Roberts,Data,Senior Data Analyst,129116,2023,2020-03-20,Remote,Full-time
+1044,Quinn,Roberts,Quinn Roberts,Data,Senior Data Analyst,133085,2024,2020-03-20,Remote,Full-time
+1045,Tara,Gonzalez,Tara Gonzalez,Data,Senior Data Analyst,119164,2021,2018-10-23,Boston,Full-time
+1045,Tara,Gonzalez,Tara Gonzalez,Data,Senior Data Analyst,137619,2022,2018-10-23,Boston,Full-time
+1045,Tara,Gonzalez,Tara Gonzalez,Data,Senior Data Analyst,133313,2023,2018-10-23,Boston,Full-time
+1045,Tara,Gonzalez,Tara Gonzalez,Data,Senior Data Analyst,147766,2024,2018-10-23,Boston,Full-time
+1046,Ben,Nelson,Ben Nelson,Data,Senior Data Analyst,103476,2021,2020-02-17,Seattle,Full-time
+1046,Ben,Nelson,Ben Nelson,Data,Senior Data Analyst,111944,2022,2020-02-17,Seattle,Full-time
+1046,Ben,Nelson,Ben Nelson,Data,Senior Data Analyst,126458,2023,2020-02-17,Seattle,Full-time
+1046,Ben,Nelson,Ben Nelson,Data,Senior Data Analyst,116866,2024,2020-02-17,Seattle,Full-time
+1047,Laura,Campbell,Laura Campbell,Data,Senior Data Analyst,101297,2022,2022-11-09,Remote,Contract
+1047,Laura,Campbell,Laura Campbell,Data,Senior Data Analyst,111252,2023,2022-11-09,Remote,Contract
+1047,Laura,Campbell,Laura Campbell,Data,Senior Data Analyst,106054,2024,2022-11-09,Remote,Contract
+1048,Fiona,Moore,Fiona Moore,Data,Senior Data Analyst,99579,2021,2021-04-25,Chicago,Contract
+1048,Fiona,Moore,Fiona Moore,Data,Senior Data Analyst,112446,2022,2021-04-25,Chicago,Contract
+1048,Fiona,Moore,Fiona Moore,Data,Senior Data Analyst,103914,2023,2021-04-25,Chicago,Contract
+1048,Fiona,Moore,Fiona Moore,Data,Senior Data Analyst,121005,2024,2021-04-25,Chicago,Contract
+1049,Maya,Hall,Maya Hall,Data,Senior Data Analyst,110049,2021,2020-09-01,Remote,Full-time
+1049,Maya,Hall,Maya Hall,Data,Senior Data Analyst,119146,2022,2020-09-01,Remote,Full-time
+1049,Maya,Hall,Maya Hall,Data,Senior Data Analyst,126568,2023,2020-09-01,Remote,Full-time
+1049,Maya,Hall,Maya Hall,Data,Senior Data Analyst,133385,2024,2020-09-01,Remote,Full-time
+1050,Fiona,Jackson,Fiona Jackson,Data,Senior Data Analyst,112338,2021,2019-07-23,San Francisco,Full-time
+1050,Fiona,Jackson,Fiona Jackson,Data,Senior Data Analyst,116988,2022,2019-07-23,San Francisco,Full-time
+1050,Fiona,Jackson,Fiona Jackson,Data,Senior Data Analyst,140053,2023,2019-07-23,San Francisco,Full-time
+1050,Fiona,Jackson,Fiona Jackson,Data,Senior Data Analyst,127526,2024,2019-07-23,San Francisco,Full-time
+1051,Tina,Taylor,Tina Taylor,Data,Senior Data Analyst,110241,2021,2019-02-24,San Francisco,Full-time
+1051,Tina,Taylor,Tina Taylor,Data,Senior Data Analyst,116619,2022,2019-02-24,San Francisco,Full-time
+1051,Tina,Taylor,Tina Taylor,Data,Senior Data Analyst,119331,2023,2019-02-24,San Francisco,Full-time
+1051,Tina,Taylor,Tina Taylor,Data,Senior Data Analyst,153692,2024,2019-02-24,San Francisco,Full-time
+1052,Maya,Jackson,Maya Jackson,Data,Data Scientist,124197,2021,2018-04-10,San Francisco,Full-time
+1052,Maya,Jackson,Maya Jackson,Data,Data Scientist,145862,2022,2018-04-10,San Francisco,Full-time
+1052,Maya,Jackson,Maya Jackson,Data,Data Scientist,180648,2023,2018-04-10,San Francisco,Full-time
+1052,Maya,Jackson,Maya Jackson,Data,Data Scientist,165391,2024,2018-04-10,San Francisco,Full-time
+1053,Will,Young,Will Young,Data,Data Scientist,138816,2021,2018-01-19,Austin,Full-time
+1053,Will,Young,Will Young,Data,Data Scientist,157431,2022,2018-01-19,Austin,Full-time
+1053,Will,Young,Will Young,Data,Data Scientist,160983,2023,2018-01-19,Austin,Full-time
+1053,Will,Young,Will Young,Data,Data Scientist,148714,2024,2018-01-19,Austin,Full-time
+1054,Kate,Green,Kate Green,Data,Data Scientist,140648,2021,2018-03-05,Boston,Contract
+1054,Kate,Green,Kate Green,Data,Data Scientist,146167,2022,2018-03-05,Boston,Contract
+1054,Kate,Green,Kate Green,Data,Data Scientist,159775,2023,2018-03-05,Boston,Contract
+1054,Kate,Green,Kate Green,Data,Data Scientist,183968,2024,2018-03-05,Boston,Contract
+1055,Yara,Lewis,Yara Lewis,Data,Data Scientist,125304,2021,2021-05-28,Remote,Full-time
+1055,Yara,Lewis,Yara Lewis,Data,Data Scientist,135913,2022,2021-05-28,Remote,Full-time
+1055,Yara,Lewis,Yara Lewis,Data,Data Scientist,133934,2023,2021-05-28,Remote,Full-time
+1055,Yara,Lewis,Yara Lewis,Data,Data Scientist,142240,2024,2021-05-28,Remote,Full-time
+1056,Kevin,Thomas,Kevin Thomas,Data,Data Scientist,140070,2021,2019-09-03,San Francisco,Full-time
+1056,Kevin,Thomas,Kevin Thomas,Data,Data Scientist,129998,2022,2019-09-03,San Francisco,Full-time
+1056,Kevin,Thomas,Kevin Thomas,Data,Data Scientist,139427,2023,2019-09-03,San Francisco,Full-time
+1056,Kevin,Thomas,Kevin Thomas,Data,Data Scientist,159439,2024,2019-09-03,San Francisco,Full-time
+1057,Omar,Taylor,Omar Taylor,Data,Data Scientist,115795,2022,2022-11-26,San Francisco,Full-time
+1057,Omar,Taylor,Omar Taylor,Data,Data Scientist,121148,2023,2022-11-26,San Francisco,Full-time
+1057,Omar,Taylor,Omar Taylor,Data,Data Scientist,120285,2024,2022-11-26,San Francisco,Full-time
+1058,Tina,Hill,Tina Hill,Data,Data Scientist,127193,2022,2022-05-15,New York,Full-time
+1058,Tina,Hill,Tina Hill,Data,Data Scientist,131853,2023,2022-05-15,New York,Full-time
+1058,Tina,Hill,Tina Hill,Data,Data Scientist,124953,2024,2022-05-15,New York,Full-time
+1059,Ben,Mitchell,Ben Mitchell,Data,Senior Data Scientist,170279,2021,2020-10-09,New York,Full-time
+1059,Ben,Mitchell,Ben Mitchell,Data,Senior Data Scientist,185143,2022,2020-10-09,New York,Full-time
+1059,Ben,Mitchell,Ben Mitchell,Data,Senior Data Scientist,182278,2023,2020-10-09,New York,Full-time
+1059,Ben,Mitchell,Ben Mitchell,Data,Senior Data Scientist,211178,2024,2020-10-09,New York,Full-time
+1060,Will,Carter,Will Carter,Data,Senior Data Scientist,171550,2021,2019-08-17,Seattle,Full-time
+1060,Will,Carter,Will Carter,Data,Senior Data Scientist,192875,2022,2019-08-17,Seattle,Full-time
+1060,Will,Carter,Will Carter,Data,Senior Data Scientist,179878,2023,2019-08-17,Seattle,Full-time
+1060,Will,Carter,Will Carter,Data,Senior Data Scientist,192778,2024,2019-08-17,Seattle,Full-time
+1061,Qian,Miller,Qian Miller,Data,Senior Data Scientist,187508,2021,2019-06-14,Seattle,Full-time
+1061,Qian,Miller,Qian Miller,Data,Senior Data Scientist,195953,2022,2019-06-14,Seattle,Full-time
+1061,Qian,Miller,Qian Miller,Data,Senior Data Scientist,187123,2023,2019-06-14,Seattle,Full-time
+1061,Qian,Miller,Qian Miller,Data,Senior Data Scientist,216386,2024,2019-06-14,Seattle,Full-time
+1062,Grace,Smith,Grace Smith,Data,ML Engineer,151456,2022,2022-08-14,New York,Full-time
+1062,Grace,Smith,Grace Smith,Data,ML Engineer,154250,2023,2022-08-14,New York,Full-time
+1062,Grace,Smith,Grace Smith,Data,ML Engineer,150491,2024,2022-08-14,New York,Full-time
+1063,Ivan,Jackson,Ivan Jackson,Data,ML Engineer,151057,2021,2021-12-16,New York,Full-time
+1063,Ivan,Jackson,Ivan Jackson,Data,ML Engineer,143783,2022,2021-12-16,New York,Full-time
+1063,Ivan,Jackson,Ivan Jackson,Data,ML Engineer,167105,2023,2021-12-16,New York,Full-time
+1063,Ivan,Jackson,Ivan Jackson,Data,ML Engineer,179629,2024,2021-12-16,New York,Full-time
+1064,Hannah,Robinson,Hannah Robinson,Data,ML Engineer,177041,2021,2018-11-27,San Francisco,Full-time
+1064,Hannah,Robinson,Hannah Robinson,Data,ML Engineer,187305,2022,2018-11-27,San Francisco,Full-time
+1064,Hannah,Robinson,Hannah Robinson,Data,ML Engineer,191450,2023,2018-11-27,San Francisco,Full-time
+1064,Hannah,Robinson,Hannah Robinson,Data,ML Engineer,187401,2024,2018-11-27,San Francisco,Full-time
+1065,Michael,Hill,Michael Hill,Data,ML Engineer,156310,2022,2022-12-05,Boston,Full-time
+1065,Michael,Hill,Michael Hill,Data,ML Engineer,168637,2023,2022-12-05,Boston,Full-time
+1065,Michael,Hill,Michael Hill,Data,ML Engineer,175091,2024,2022-12-05,Boston,Full-time
+1066,Sam,Campbell,Sam Campbell,Data,ML Engineer,157071,2021,2020-10-19,Seattle,Full-time
+1066,Sam,Campbell,Sam Campbell,Data,ML Engineer,158971,2022,2020-10-19,Seattle,Full-time
+1066,Sam,Campbell,Sam Campbell,Data,ML Engineer,175902,2023,2020-10-19,Seattle,Full-time
+1066,Sam,Campbell,Sam Campbell,Data,ML Engineer,213127,2024,2020-10-19,Seattle,Full-time
+1067,Steve,Thomas,Steve Thomas,Data,ML Engineer,154996,2022,2022-07-08,Boston,Full-time
+1067,Steve,Thomas,Steve Thomas,Data,ML Engineer,167172,2023,2022-07-08,Boston,Full-time
+1067,Steve,Thomas,Steve Thomas,Data,ML Engineer,168070,2024,2022-07-08,Boston,Full-time
+1068,Julia,Young,Julia Young,Data,Head of Data,257330,2021,2018-03-17,Remote,Full-time
+1068,Julia,Young,Julia Young,Data,Head of Data,238586,2022,2018-03-17,Remote,Full-time
+1068,Julia,Young,Julia Young,Data,Head of Data,261649,2023,2018-03-17,Remote,Full-time
+1068,Julia,Young,Julia Young,Data,Head of Data,268356,2024,2018-03-17,Remote,Full-time
+1069,Julia,Jones,Julia Jones,Data,Head of Data,207167,2021,2021-05-11,Remote,Full-time
+1069,Julia,Jones,Julia Jones,Data,Head of Data,222519,2022,2021-05-11,Remote,Full-time
+1069,Julia,Jones,Julia Jones,Data,Head of Data,205591,2023,2021-05-11,Remote,Full-time
+1069,Julia,Jones,Julia Jones,Data,Head of Data,246656,2024,2021-05-11,Remote,Full-time
+1070,Iris,Williams,Iris Williams,Data,Head of Data,203177,2022,2022-02-08,Seattle,Full-time
+1070,Iris,Williams,Iris Williams,Data,Head of Data,187771,2023,2022-02-08,Seattle,Full-time
+1070,Iris,Williams,Iris Williams,Data,Head of Data,234406,2024,2022-02-08,Seattle,Full-time
+1071,Clara,Hernandez,Clara Hernandez,Data,Head of Data,197488,2021,2020-01-02,Austin,Full-time
+1071,Clara,Hernandez,Clara Hernandez,Data,Head of Data,209792,2022,2020-01-02,Austin,Full-time
+1071,Clara,Hernandez,Clara Hernandez,Data,Head of Data,242883,2023,2020-01-02,Austin,Full-time
+1071,Clara,Hernandez,Clara Hernandez,Data,Head of Data,206803,2024,2020-01-02,Austin,Full-time
+1072,Yara,Flores,Yara Flores,Data,Head of Data,204543,2021,2019-08-19,San Francisco,Full-time
+1072,Yara,Flores,Yara Flores,Data,Head of Data,198604,2022,2019-08-19,San Francisco,Full-time
+1072,Yara,Flores,Yara Flores,Data,Head of Data,274253,2023,2019-08-19,San Francisco,Full-time
+1072,Yara,Flores,Yara Flores,Data,Head of Data,246416,2024,2019-08-19,San Francisco,Full-time
+1073,Clara,Thompson,Clara Thompson,Data,Head of Data,186280,2022,2022-05-21,Chicago,Full-time
+1073,Clara,Thompson,Clara Thompson,Data,Head of Data,223798,2023,2022-05-21,Chicago,Full-time
+1073,Clara,Thompson,Clara Thompson,Data,Head of Data,202904,2024,2022-05-21,Chicago,Full-time
+1074,Wendy,Torres,Wendy Torres,Data,Head of Data,204888,2021,2020-12-10,New York,Full-time
+1074,Wendy,Torres,Wendy Torres,Data,Head of Data,230051,2022,2020-12-10,New York,Full-time
+1074,Wendy,Torres,Wendy Torres,Data,Head of Data,217736,2023,2020-12-10,New York,Full-time
+1074,Wendy,Torres,Wendy Torres,Data,Head of Data,258949,2024,2020-12-10,New York,Full-time
+1075,Sam,Roberts,Sam Roberts,Data,Head of Data,223686,2021,2019-10-26,Austin,Full-time
+1075,Sam,Roberts,Sam Roberts,Data,Head of Data,243477,2022,2019-10-26,Austin,Full-time
+1075,Sam,Roberts,Sam Roberts,Data,Head of Data,263824,2023,2019-10-26,Austin,Full-time
+1075,Sam,Roberts,Sam Roberts,Data,Head of Data,281731,2024,2019-10-26,Austin,Full-time
+1076,Carlos,Martin,Carlos Martin,Product,Product Manager,112587,2021,2021-01-19,Austin,Full-time
+1076,Carlos,Martin,Carlos Martin,Product,Product Manager,117240,2022,2021-01-19,Austin,Full-time
+1076,Carlos,Martin,Carlos Martin,Product,Product Manager,127019,2023,2021-01-19,Austin,Full-time
+1076,Carlos,Martin,Carlos Martin,Product,Product Manager,148070,2024,2021-01-19,Austin,Full-time
+1077,Rachel,Hernandez,Rachel Hernandez,Product,Product Manager,124756,2021,2020-08-26,Austin,Full-time
+1077,Rachel,Hernandez,Rachel Hernandez,Product,Product Manager,131601,2022,2020-08-26,Austin,Full-time
+1077,Rachel,Hernandez,Rachel Hernandez,Product,Product Manager,137013,2023,2020-08-26,Austin,Full-time
+1077,Rachel,Hernandez,Rachel Hernandez,Product,Product Manager,147157,2024,2020-08-26,Austin,Full-time
+1078,James,White,James White,Product,Product Manager,127135,2021,2018-07-01,Austin,Contract
+1078,James,White,James White,Product,Product Manager,145193,2022,2018-07-01,Austin,Contract
+1078,James,White,James White,Product,Product Manager,153081,2023,2018-07-01,Austin,Contract
+1078,James,White,James White,Product,Product Manager,161261,2024,2018-07-01,Austin,Contract
+1079,Elena,Johnson,Elena Johnson,Product,Product Manager,120414,2022,2022-09-11,Remote,Full-time
+1079,Elena,Johnson,Elena Johnson,Product,Product Manager,128412,2023,2022-09-11,Remote,Full-time
+1079,Elena,Johnson,Elena Johnson,Product,Product Manager,122458,2024,2022-09-11,Remote,Full-time
+1080,Carlos,Williams,Carlos Williams,Product,Product Manager,117019,2021,2020-08-04,New York,Full-time
+1080,Carlos,Williams,Carlos Williams,Product,Product Manager,134330,2022,2020-08-04,New York,Full-time
+1080,Carlos,Williams,Carlos Williams,Product,Product Manager,155021,2023,2020-08-04,New York,Full-time
+1080,Carlos,Williams,Carlos Williams,Product,Product Manager,149896,2024,2020-08-04,New York,Full-time
+1081,Julia,Clark,Julia Clark,Product,Product Manager,125519,2021,2018-08-20,Chicago,Full-time
+1081,Julia,Clark,Julia Clark,Product,Product Manager,156461,2022,2018-08-20,Chicago,Full-time
+1081,Julia,Clark,Julia Clark,Product,Product Manager,153569,2023,2018-08-20,Chicago,Full-time
+1081,Julia,Clark,Julia Clark,Product,Product Manager,171954,2024,2018-08-20,Chicago,Full-time
+1082,Paul,Thompson,Paul Thompson,Product,Product Manager,156046,2021,2018-07-09,San Francisco,Full-time
+1082,Paul,Thompson,Paul Thompson,Product,Product Manager,126801,2022,2018-07-09,San Francisco,Full-time
+1082,Paul,Thompson,Paul Thompson,Product,Product Manager,173076,2023,2018-07-09,San Francisco,Full-time
+1082,Paul,Thompson,Paul Thompson,Product,Product Manager,137498,2024,2018-07-09,San Francisco,Full-time
+1083,Ivan,Torres,Ivan Torres,Product,Product Manager,119887,2021,2019-02-27,Boston,Contract
+1083,Ivan,Torres,Ivan Torres,Product,Product Manager,140228,2022,2019-02-27,Boston,Contract
+1083,Ivan,Torres,Ivan Torres,Product,Product Manager,146514,2023,2019-02-27,Boston,Contract
+1083,Ivan,Torres,Ivan Torres,Product,Product Manager,145639,2024,2019-02-27,Boston,Contract
+1084,Ivan,Wright,Ivan Wright,Product,Senior Product Manager,149050,2021,2020-03-04,Seattle,Full-time
+1084,Ivan,Wright,Ivan Wright,Product,Senior Product Manager,172094,2022,2020-03-04,Seattle,Full-time
+1084,Ivan,Wright,Ivan Wright,Product,Senior Product Manager,154533,2023,2020-03-04,Seattle,Full-time
+1084,Ivan,Wright,Ivan Wright,Product,Senior Product Manager,167954,2024,2020-03-04,Seattle,Full-time
+1085,Hannah,Mitchell,Hannah Mitchell,Product,Senior Product Manager,160659,2021,2018-08-15,Boston,Full-time
+1085,Hannah,Mitchell,Hannah Mitchell,Product,Senior Product Manager,199369,2022,2018-08-15,Boston,Full-time
+1085,Hannah,Mitchell,Hannah Mitchell,Product,Senior Product Manager,182891,2023,2018-08-15,Boston,Full-time
+1085,Hannah,Mitchell,Hannah Mitchell,Product,Senior Product Manager,227110,2024,2018-08-15,Boston,Full-time
+1086,David,Adams,David Adams,Product,Senior Product Manager,158645,2021,2018-01-16,Boston,Full-time
+1086,David,Adams,David Adams,Product,Senior Product Manager,188601,2022,2018-01-16,Boston,Full-time
+1086,David,Adams,David Adams,Product,Senior Product Manager,204888,2023,2018-01-16,Boston,Full-time
+1086,David,Adams,David Adams,Product,Senior Product Manager,170855,2024,2018-01-16,Boston,Full-time
+1087,Noah,Green,Noah Green,Product,Senior Product Manager,148786,2022,2022-09-23,Austin,Full-time
+1087,Noah,Green,Noah Green,Product,Senior Product Manager,158910,2023,2022-09-23,Austin,Full-time
+1087,Noah,Green,Noah Green,Product,Senior Product Manager,164689,2024,2022-09-23,Austin,Full-time
+1088,Paul,Roberts,Paul Roberts,Product,Director of Product,178654,2022,2022-12-28,San Francisco,Full-time
+1088,Paul,Roberts,Paul Roberts,Product,Director of Product,195757,2023,2022-12-28,San Francisco,Full-time
+1088,Paul,Roberts,Paul Roberts,Product,Director of Product,191816,2024,2022-12-28,San Francisco,Full-time
+1089,Ben,Lee,Ben Lee,Product,Director of Product,207679,2021,2020-06-05,Seattle,Full-time
+1089,Ben,Lee,Ben Lee,Product,Director of Product,186028,2022,2020-06-05,Seattle,Full-time
+1089,Ben,Lee,Ben Lee,Product,Director of Product,243198,2023,2020-06-05,Seattle,Full-time
+1089,Ben,Lee,Ben Lee,Product,Director of Product,240280,2024,2020-06-05,Seattle,Full-time
+1090,James,Scott,James Scott,Product,Director of Product,220127,2021,2020-11-04,Chicago,Full-time
+1090,James,Scott,James Scott,Product,Director of Product,225496,2022,2020-11-04,Chicago,Full-time
+1090,James,Scott,James Scott,Product,Director of Product,199095,2023,2020-11-04,Chicago,Full-time
+1090,James,Scott,James Scott,Product,Director of Product,208032,2024,2020-11-04,Chicago,Full-time
+1091,Grace,Wilson,Grace Wilson,Product,Director of Product,209338,2021,2019-11-16,San Francisco,Full-time
+1091,Grace,Wilson,Grace Wilson,Product,Director of Product,200563,2022,2019-11-16,San Francisco,Full-time
+1091,Grace,Wilson,Grace Wilson,Product,Director of Product,218781,2023,2019-11-16,San Francisco,Full-time
+1091,Grace,Wilson,Grace Wilson,Product,Director of Product,263327,2024,2019-11-16,San Francisco,Full-time
+1092,Noah,Flores,Noah Flores,Product,Director of Product,180311,2022,2022-01-20,Seattle,Full-time
+1092,Noah,Flores,Noah Flores,Product,Director of Product,218213,2023,2022-01-20,Seattle,Full-time
+1092,Noah,Flores,Noah Flores,Product,Director of Product,194136,2024,2022-01-20,Seattle,Full-time
+1093,Julia,Torres,Julia Torres,Product,Director of Product,189827,2021,2021-02-05,Seattle,Full-time
+1093,Julia,Torres,Julia Torres,Product,Director of Product,196111,2022,2021-02-05,Seattle,Full-time
+1093,Julia,Torres,Julia Torres,Product,Director of Product,195755,2023,2021-02-05,Seattle,Full-time
+1093,Julia,Torres,Julia Torres,Product,Director of Product,234795,2024,2021-02-05,Seattle,Full-time
+1094,Maya,Garcia,Maya Garcia,Product,Director of Product,190655,2021,2018-03-06,Boston,Contract
+1094,Maya,Garcia,Maya Garcia,Product,Director of Product,227809,2022,2018-03-06,Boston,Contract
+1094,Maya,Garcia,Maya Garcia,Product,Director of Product,248688,2023,2018-03-06,Boston,Contract
+1094,Maya,Garcia,Maya Garcia,Product,Director of Product,240420,2024,2018-03-06,Boston,Contract
+1095,Wendy,Ramirez,Wendy Ramirez,Product,Director of Product,228406,2021,2018-05-22,Seattle,Contract
+1095,Wendy,Ramirez,Wendy Ramirez,Product,Director of Product,209862,2022,2018-05-22,Seattle,Contract
+1095,Wendy,Ramirez,Wendy Ramirez,Product,Director of Product,228110,2023,2018-05-22,Seattle,Contract
+1095,Wendy,Ramirez,Wendy Ramirez,Product,Director of Product,231917,2024,2018-05-22,Seattle,Contract
+1096,Will,Taylor,Will Taylor,Marketing,Marketing Coordinator,56070,2021,2020-06-04,New York,Full-time
+1096,Will,Taylor,Will Taylor,Marketing,Marketing Coordinator,64199,2022,2020-06-04,New York,Full-time
+1096,Will,Taylor,Will Taylor,Marketing,Marketing Coordinator,70183,2023,2020-06-04,New York,Full-time
+1096,Will,Taylor,Will Taylor,Marketing,Marketing Coordinator,67443,2024,2020-06-04,New York,Full-time
+1097,Vera,Williams,Vera Williams,Marketing,Marketing Coordinator,56907,2021,2021-01-15,New York,Full-time
+1097,Vera,Williams,Vera Williams,Marketing,Marketing Coordinator,58808,2022,2021-01-15,New York,Full-time
+1097,Vera,Williams,Vera Williams,Marketing,Marketing Coordinator,54529,2023,2021-01-15,New York,Full-time
+1097,Vera,Williams,Vera Williams,Marketing,Marketing Coordinator,68043,2024,2021-01-15,New York,Full-time
+1098,Noah,Robinson,Noah Robinson,Marketing,Marketing Coordinator,59484,2021,2020-02-14,Boston,Full-time
+1098,Noah,Robinson,Noah Robinson,Marketing,Marketing Coordinator,61303,2022,2020-02-14,Boston,Full-time
+1098,Noah,Robinson,Noah Robinson,Marketing,Marketing Coordinator,62096,2023,2020-02-14,Boston,Full-time
+1098,Noah,Robinson,Noah Robinson,Marketing,Marketing Coordinator,62943,2024,2020-02-14,Boston,Full-time
+1099,Grace,Green,Grace Green,Marketing,Marketing Coordinator,70284,2021,2018-09-17,San Francisco,Full-time
+1099,Grace,Green,Grace Green,Marketing,Marketing Coordinator,66499,2022,2018-09-17,San Francisco,Full-time
+1099,Grace,Green,Grace Green,Marketing,Marketing Coordinator,63484,2023,2018-09-17,San Francisco,Full-time
+1099,Grace,Green,Grace Green,Marketing,Marketing Coordinator,65648,2024,2018-09-17,San Francisco,Full-time
+1100,Ethan,Lopez,Ethan Lopez,Marketing,Marketing Manager,93910,2021,2021-08-25,Remote,Contract
+1100,Ethan,Lopez,Ethan Lopez,Marketing,Marketing Manager,94182,2022,2021-08-25,Remote,Contract
+1100,Ethan,Lopez,Ethan Lopez,Marketing,Marketing Manager,104615,2023,2021-08-25,Remote,Contract
+1100,Ethan,Lopez,Ethan Lopez,Marketing,Marketing Manager,96564,2024,2021-08-25,Remote,Contract
+1101,Ethan,Walker,Ethan Walker,Marketing,Marketing Manager,84183,2021,2021-11-10,Boston,Full-time
+1101,Ethan,Walker,Ethan Walker,Marketing,Marketing Manager,88950,2022,2021-11-10,Boston,Full-time
+1101,Ethan,Walker,Ethan Walker,Marketing,Marketing Manager,89940,2023,2021-11-10,Boston,Full-time
+1101,Ethan,Walker,Ethan Walker,Marketing,Marketing Manager,101556,2024,2021-11-10,Boston,Full-time
+1102,Fiona,Flores,Fiona Flores,Marketing,Marketing Manager,91660,2022,2022-09-13,Chicago,Contract
+1102,Fiona,Flores,Fiona Flores,Marketing,Marketing Manager,92266,2023,2022-09-13,Chicago,Contract
+1102,Fiona,Flores,Fiona Flores,Marketing,Marketing Manager,102311,2024,2022-09-13,Chicago,Contract
+1103,Uma,Hill,Uma Hill,Marketing,Marketing Manager,93485,2021,2021-09-05,New York,Full-time
+1103,Uma,Hill,Uma Hill,Marketing,Marketing Manager,94605,2022,2021-09-05,New York,Full-time
+1103,Uma,Hill,Uma Hill,Marketing,Marketing Manager,90342,2023,2021-09-05,New York,Full-time
+1103,Uma,Hill,Uma Hill,Marketing,Marketing Manager,97000,2024,2021-09-05,New York,Full-time
+1104,Clara,King,Clara King,Marketing,Marketing Manager,84786,2022,2022-10-06,Austin,Full-time
+1104,Clara,King,Clara King,Marketing,Marketing Manager,95908,2023,2022-10-06,Austin,Full-time
+1104,Clara,King,Clara King,Marketing,Marketing Manager,94820,2024,2022-10-06,Austin,Full-time
+1105,Victor,Jones,Victor Jones,Marketing,Marketing Manager,94504,2021,2020-02-18,Seattle,Full-time
+1105,Victor,Jones,Victor Jones,Marketing,Marketing Manager,105739,2022,2020-02-18,Seattle,Full-time
+1105,Victor,Jones,Victor Jones,Marketing,Marketing Manager,103799,2023,2020-02-18,Seattle,Full-time
+1105,Victor,Jones,Victor Jones,Marketing,Marketing Manager,101430,2024,2020-02-18,Seattle,Full-time
+1106,Wendy,Martin,Wendy Martin,Marketing,Marketing Manager,84603,2021,2021-03-20,Seattle,Full-time
+1106,Wendy,Martin,Wendy Martin,Marketing,Marketing Manager,98427,2022,2021-03-20,Seattle,Full-time
+1106,Wendy,Martin,Wendy Martin,Marketing,Marketing Manager,104386,2023,2021-03-20,Seattle,Full-time
+1106,Wendy,Martin,Wendy Martin,Marketing,Marketing Manager,109130,2024,2021-03-20,Seattle,Full-time
+1107,Henry,Garcia,Henry Garcia,Marketing,Marketing Manager,94369,2021,2021-09-12,New York,Full-time
+1107,Henry,Garcia,Henry Garcia,Marketing,Marketing Manager,95520,2022,2021-09-12,New York,Full-time
+1107,Henry,Garcia,Henry Garcia,Marketing,Marketing Manager,102888,2023,2021-09-12,New York,Full-time
+1107,Henry,Garcia,Henry Garcia,Marketing,Marketing Manager,93013,2024,2021-09-12,New York,Full-time
+1108,Grace,Roberts,Grace Roberts,Marketing,Senior Marketing Manager,114796,2022,2022-12-17,New York,Full-time
+1108,Grace,Roberts,Grace Roberts,Marketing,Senior Marketing Manager,110854,2023,2022-12-17,New York,Full-time
+1108,Grace,Roberts,Grace Roberts,Marketing,Senior Marketing Manager,125712,2024,2022-12-17,New York,Full-time
+1109,Noah,Hernandez,Noah Hernandez,Marketing,Senior Marketing Manager,114633,2021,2021-01-14,Austin,Full-time
+1109,Noah,Hernandez,Noah Hernandez,Marketing,Senior Marketing Manager,126452,2022,2021-01-14,Austin,Full-time
+1109,Noah,Hernandez,Noah Hernandez,Marketing,Senior Marketing Manager,115525,2023,2021-01-14,Austin,Full-time
+1109,Noah,Hernandez,Noah Hernandez,Marketing,Senior Marketing Manager,148508,2024,2021-01-14,Austin,Full-time
+1110,Michael,White,Michael White,Marketing,Senior Marketing Manager,112263,2022,2022-08-15,Boston,Full-time
+1110,Michael,White,Michael White,Marketing,Senior Marketing Manager,110101,2023,2022-08-15,Boston,Full-time
+1110,Michael,White,Michael White,Marketing,Senior Marketing Manager,123842,2024,2022-08-15,Boston,Full-time
+1111,Diana,Adams,Diana Adams,Marketing,VP of Marketing,166092,2021,2021-06-18,New York,Contract
+1111,Diana,Adams,Diana Adams,Marketing,VP of Marketing,176966,2022,2021-06-18,New York,Contract
+1111,Diana,Adams,Diana Adams,Marketing,VP of Marketing,186621,2023,2021-06-18,New York,Contract
+1111,Diana,Adams,Diana Adams,Marketing,VP of Marketing,219473,2024,2021-06-18,New York,Contract
+1112,Omar,Lewis,Omar Lewis,Marketing,VP of Marketing,173475,2021,2020-01-14,New York,Full-time
+1112,Omar,Lewis,Omar Lewis,Marketing,VP of Marketing,197193,2022,2020-01-14,New York,Full-time
+1112,Omar,Lewis,Omar Lewis,Marketing,VP of Marketing,206329,2023,2020-01-14,New York,Full-time
+1112,Omar,Lewis,Omar Lewis,Marketing,VP of Marketing,235693,2024,2020-01-14,New York,Full-time
+1113,Julia,Rodriguez,Julia Rodriguez,Marketing,VP of Marketing,209919,2021,2018-05-27,Chicago,Full-time
+1113,Julia,Rodriguez,Julia Rodriguez,Marketing,VP of Marketing,237019,2022,2018-05-27,Chicago,Full-time
+1113,Julia,Rodriguez,Julia Rodriguez,Marketing,VP of Marketing,190687,2023,2018-05-27,Chicago,Full-time
+1113,Julia,Rodriguez,Julia Rodriguez,Marketing,VP of Marketing,234895,2024,2018-05-27,Chicago,Full-time
+1114,Maya,King,Maya King,Marketing,VP of Marketing,158023,2021,2021-02-25,Austin,Full-time
+1114,Maya,King,Maya King,Marketing,VP of Marketing,192743,2022,2021-02-25,Austin,Full-time
+1114,Maya,King,Maya King,Marketing,VP of Marketing,177548,2023,2021-02-25,Austin,Full-time
+1114,Maya,King,Maya King,Marketing,VP of Marketing,219658,2024,2021-02-25,Austin,Full-time
+1115,Bob,Green,Bob Green,Marketing,VP of Marketing,156453,2022,2022-10-08,Seattle,Full-time
+1115,Bob,Green,Bob Green,Marketing,VP of Marketing,184177,2023,2022-10-08,Seattle,Full-time
+1115,Bob,Green,Bob Green,Marketing,VP of Marketing,193499,2024,2022-10-08,Seattle,Full-time
+1116,Xavier,Jones,Xavier Jones,Sales,Sales Representative,59885,2022,2022-09-17,Boston,Contract
+1116,Xavier,Jones,Xavier Jones,Sales,Sales Representative,66189,2023,2022-09-17,Boston,Contract
+1116,Xavier,Jones,Xavier Jones,Sales,Sales Representative,67816,2024,2022-09-17,Boston,Contract
+1117,Bob,Thompson,Bob Thompson,Sales,Sales Representative,78117,2021,2018-06-08,Seattle,Full-time
+1117,Bob,Thompson,Bob Thompson,Sales,Sales Representative,66876,2022,2018-06-08,Seattle,Full-time
+1117,Bob,Thompson,Bob Thompson,Sales,Sales Representative,85832,2023,2018-06-08,Seattle,Full-time
+1117,Bob,Thompson,Bob Thompson,Sales,Sales Representative,81090,2024,2018-06-08,Seattle,Full-time
+1118,David,Hall,David Hall,Sales,Sales Representative,64514,2021,2021-11-06,Boston,Full-time
+1118,David,Hall,David Hall,Sales,Sales Representative,61826,2022,2021-11-06,Boston,Full-time
+1118,David,Hall,David Hall,Sales,Sales Representative,61361,2023,2021-11-06,Boston,Full-time
+1118,David,Hall,David Hall,Sales,Sales Representative,73001,2024,2021-11-06,Boston,Full-time
+1119,Grace,Sanchez,Grace Sanchez,Sales,Sales Representative,65545,2022,2022-08-09,New York,Full-time
+1119,Grace,Sanchez,Grace Sanchez,Sales,Sales Representative,65111,2023,2022-08-09,New York,Full-time
+1119,Grace,Sanchez,Grace Sanchez,Sales,Sales Representative,70573,2024,2022-08-09,New York,Full-time
+1120,Ben,Sanchez,Ben Sanchez,Sales,Sales Representative,59608,2021,2021-07-11,San Francisco,Full-time
+1120,Ben,Sanchez,Ben Sanchez,Sales,Sales Representative,62480,2022,2021-07-11,San Francisco,Full-time
+1120,Ben,Sanchez,Ben Sanchez,Sales,Sales Representative,64479,2023,2021-07-11,San Francisco,Full-time
+1120,Ben,Sanchez,Ben Sanchez,Sales,Sales Representative,78064,2024,2021-07-11,San Francisco,Full-time
+1121,Laura,Wright,Laura Wright,Sales,Sales Representative,62589,2021,2020-06-04,New York,Full-time
+1121,Laura,Wright,Laura Wright,Sales,Sales Representative,67784,2022,2020-06-04,New York,Full-time
+1121,Laura,Wright,Laura Wright,Sales,Sales Representative,71671,2023,2020-06-04,New York,Full-time
+1121,Laura,Wright,Laura Wright,Sales,Sales Representative,74488,2024,2020-06-04,New York,Full-time
+1122,Wendy,Flores,Wendy Flores,Sales,Sales Representative,62850,2021,2021-05-21,Boston,Full-time
+1122,Wendy,Flores,Wendy Flores,Sales,Sales Representative,67934,2022,2021-05-21,Boston,Full-time
+1122,Wendy,Flores,Wendy Flores,Sales,Sales Representative,75431,2023,2021-05-21,Boston,Full-time
+1122,Wendy,Flores,Wendy Flores,Sales,Sales Representative,69715,2024,2021-05-21,Boston,Full-time
+1123,Carlos,Rodriguez,Carlos Rodriguez,Sales,Account Executive,115011,2021,2018-04-25,Seattle,Full-time
+1123,Carlos,Rodriguez,Carlos Rodriguez,Sales,Account Executive,96907,2022,2018-04-25,Seattle,Full-time
+1123,Carlos,Rodriguez,Carlos Rodriguez,Sales,Account Executive,115562,2023,2018-04-25,Seattle,Full-time
+1123,Carlos,Rodriguez,Carlos Rodriguez,Sales,Account Executive,114238,2024,2018-04-25,Seattle,Full-time
+1124,Ivan,King,Ivan King,Sales,Account Executive,88446,2021,2020-07-11,Seattle,Full-time
+1124,Ivan,King,Ivan King,Sales,Account Executive,104451,2022,2020-07-11,Seattle,Full-time
+1124,Ivan,King,Ivan King,Sales,Account Executive,107355,2023,2020-07-11,Seattle,Full-time
+1124,Ivan,King,Ivan King,Sales,Account Executive,103566,2024,2020-07-11,Seattle,Full-time
+1125,Clara,Wilson,Clara Wilson,Sales,Account Executive,98150,2022,2022-05-23,Chicago,Full-time
+1125,Clara,Wilson,Clara Wilson,Sales,Account Executive,104182,2023,2022-05-23,Chicago,Full-time
+1125,Clara,Wilson,Clara Wilson,Sales,Account Executive,93429,2024,2022-05-23,Chicago,Full-time
+1126,Rosa,Lee,Rosa Lee,Sales,Account Executive,92125,2021,2020-12-03,Remote,Contract
+1126,Rosa,Lee,Rosa Lee,Sales,Account Executive,102948,2022,2020-12-03,Remote,Contract
+1126,Rosa,Lee,Rosa Lee,Sales,Account Executive,103806,2023,2020-12-03,Remote,Contract
+1126,Rosa,Lee,Rosa Lee,Sales,Account Executive,104778,2024,2020-12-03,Remote,Contract
+1127,Michael,Rodriguez,Michael Rodriguez,Sales,Account Executive,102219,2021,2019-08-01,Austin,Contract
+1127,Michael,Rodriguez,Michael Rodriguez,Sales,Account Executive,106993,2022,2019-08-01,Austin,Contract
+1127,Michael,Rodriguez,Michael Rodriguez,Sales,Account Executive,111828,2023,2019-08-01,Austin,Contract
+1127,Michael,Rodriguez,Michael Rodriguez,Sales,Account Executive,122092,2024,2019-08-01,Austin,Contract
+1128,Elena,King,Elena King,Sales,Account Executive,88506,2021,2021-07-27,Remote,Full-time
+1128,Elena,King,Elena King,Sales,Account Executive,94258,2022,2021-07-27,Remote,Full-time
+1128,Elena,King,Elena King,Sales,Account Executive,94885,2023,2021-07-27,Remote,Full-time
+1128,Elena,King,Elena King,Sales,Account Executive,114053,2024,2021-07-27,Remote,Full-time
+1129,Laura,Roberts,Laura Roberts,Sales,Senior Account Executive,135169,2021,2019-07-17,Boston,Full-time
+1129,Laura,Roberts,Laura Roberts,Sales,Senior Account Executive,125060,2022,2019-07-17,Boston,Full-time
+1129,Laura,Roberts,Laura Roberts,Sales,Senior Account Executive,149178,2023,2019-07-17,Boston,Full-time
+1129,Laura,Roberts,Laura Roberts,Sales,Senior Account Executive,170898,2024,2019-07-17,Boston,Full-time
+1130,Sam,Garcia,Sam Garcia,Sales,Senior Account Executive,116853,2021,2020-04-21,Remote,Full-time
+1130,Sam,Garcia,Sam Garcia,Sales,Senior Account Executive,131038,2022,2020-04-21,Remote,Full-time
+1130,Sam,Garcia,Sam Garcia,Sales,Senior Account Executive,142724,2023,2020-04-21,Remote,Full-time
+1130,Sam,Garcia,Sam Garcia,Sales,Senior Account Executive,140253,2024,2020-04-21,Remote,Full-time
+1131,Uri,Hill,Uri Hill,Sales,Senior Account Executive,131963,2021,2020-10-02,Boston,Full-time
+1131,Uri,Hill,Uri Hill,Sales,Senior Account Executive,127752,2022,2020-10-02,Boston,Full-time
+1131,Uri,Hill,Uri Hill,Sales,Senior Account Executive,134021,2023,2020-10-02,Boston,Full-time
+1131,Uri,Hill,Uri Hill,Sales,Senior Account Executive,134909,2024,2020-10-02,Boston,Full-time
+1132,Olivia,Wright,Olivia Wright,Sales,Senior Account Executive,130092,2021,2020-11-10,Chicago,Full-time
+1132,Olivia,Wright,Olivia Wright,Sales,Senior Account Executive,117340,2022,2020-11-10,Chicago,Full-time
+1132,Olivia,Wright,Olivia Wright,Sales,Senior Account Executive,127767,2023,2020-11-10,Chicago,Full-time
+1132,Olivia,Wright,Olivia Wright,Sales,Senior Account Executive,136472,2024,2020-11-10,Chicago,Full-time
+1133,Maya,Martinez,Maya Martinez,Sales,Senior Account Executive,117378,2021,2020-12-11,Seattle,Full-time
+1133,Maya,Martinez,Maya Martinez,Sales,Senior Account Executive,130519,2022,2020-12-11,Seattle,Full-time
+1133,Maya,Martinez,Maya Martinez,Sales,Senior Account Executive,133344,2023,2020-12-11,Seattle,Full-time
+1133,Maya,Martinez,Maya Martinez,Sales,Senior Account Executive,132142,2024,2020-12-11,Seattle,Full-time
+1134,George,Brown,George Brown,Sales,Senior Account Executive,131033,2021,2020-07-28,Remote,Full-time
+1134,George,Brown,George Brown,Sales,Senior Account Executive,122104,2022,2020-07-28,Remote,Full-time
+1134,George,Brown,George Brown,Sales,Senior Account Executive,134151,2023,2020-07-28,Remote,Full-time
+1134,George,Brown,George Brown,Sales,Senior Account Executive,152647,2024,2020-07-28,Remote,Full-time
+1135,Grace,Robinson,Grace Robinson,Sales,Senior Account Executive,117425,2021,2021-05-16,New York,Full-time
+1135,Grace,Robinson,Grace Robinson,Sales,Senior Account Executive,119423,2022,2021-05-16,New York,Full-time
+1135,Grace,Robinson,Grace Robinson,Sales,Senior Account Executive,117397,2023,2021-05-16,New York,Full-time
+1135,Grace,Robinson,Grace Robinson,Sales,Senior Account Executive,147957,2024,2021-05-16,New York,Full-time
+1136,Rosa,Walker,Rosa Walker,Sales,Sales Manager,149891,2021,2020-09-01,Boston,Full-time
+1136,Rosa,Walker,Rosa Walker,Sales,Sales Manager,158588,2022,2020-09-01,Boston,Full-time
+1136,Rosa,Walker,Rosa Walker,Sales,Sales Manager,149777,2023,2020-09-01,Boston,Full-time
+1136,Rosa,Walker,Rosa Walker,Sales,Sales Manager,156501,2024,2020-09-01,Boston,Full-time
+1137,James,Jackson,James Jackson,Sales,Sales Manager,165347,2021,2018-07-17,Chicago,Contract
+1137,James,Jackson,James Jackson,Sales,Sales Manager,157255,2022,2018-07-17,Chicago,Contract
+1137,James,Jackson,James Jackson,Sales,Sales Manager,189681,2023,2018-07-17,Chicago,Contract
+1137,James,Jackson,James Jackson,Sales,Sales Manager,192442,2024,2018-07-17,Chicago,Contract
+1138,Xavier,Carter,Xavier Carter,Sales,Sales Manager,134429,2021,2019-04-20,Remote,Full-time
+1138,Xavier,Carter,Xavier Carter,Sales,Sales Manager,142967,2022,2019-04-20,Remote,Full-time
+1138,Xavier,Carter,Xavier Carter,Sales,Sales Manager,162073,2023,2019-04-20,Remote,Full-time
+1138,Xavier,Carter,Xavier Carter,Sales,Sales Manager,178251,2024,2019-04-20,Remote,Full-time
+1139,Uma,Flores,Uma Flores,Sales,Sales Manager,140715,2021,2020-03-13,Remote,Full-time
+1139,Uma,Flores,Uma Flores,Sales,Sales Manager,147428,2022,2020-03-13,Remote,Full-time
+1139,Uma,Flores,Uma Flores,Sales,Sales Manager,156328,2023,2020-03-13,Remote,Full-time
+1139,Uma,Flores,Uma Flores,Sales,Sales Manager,144770,2024,2020-03-13,Remote,Full-time
+1140,Hannah,Clark,Hannah Clark,Sales,Sales Manager,126503,2022,2022-05-26,Seattle,Full-time
+1140,Hannah,Clark,Hannah Clark,Sales,Sales Manager,153968,2023,2022-05-26,Seattle,Full-time
+1140,Hannah,Clark,Hannah Clark,Sales,Sales Manager,140743,2024,2022-05-26,Seattle,Full-time
+1141,Diana,Nguyen,Diana Nguyen,Sales,Sales Manager,129484,2021,2021-03-17,Seattle,Contract
+1141,Diana,Nguyen,Diana Nguyen,Sales,Sales Manager,134846,2022,2021-03-17,Seattle,Contract
+1141,Diana,Nguyen,Diana Nguyen,Sales,Sales Manager,154446,2023,2021-03-17,Seattle,Contract
+1141,Diana,Nguyen,Diana Nguyen,Sales,Sales Manager,147236,2024,2021-03-17,Seattle,Contract
+1142,Amelia,Martinez,Amelia Martinez,Sales,Sales Manager,143533,2021,2021-12-07,Chicago,Contract
+1142,Amelia,Martinez,Amelia Martinez,Sales,Sales Manager,148948,2022,2021-12-07,Chicago,Contract
+1142,Amelia,Martinez,Amelia Martinez,Sales,Sales Manager,131483,2023,2021-12-07,Chicago,Contract
+1142,Amelia,Martinez,Amelia Martinez,Sales,Sales Manager,144192,2024,2021-12-07,Chicago,Contract
+1143,Qian,Walker,Qian Walker,Sales,Sales Manager,128500,2022,2022-07-11,San Francisco,Full-time
+1143,Qian,Walker,Qian Walker,Sales,Sales Manager,146336,2023,2022-07-11,San Francisco,Full-time
+1143,Qian,Walker,Qian Walker,Sales,Sales Manager,154928,2024,2022-07-11,San Francisco,Full-time
+1144,Quinn,Flores,Quinn Flores,Sales,VP of Sales,199493,2021,2021-04-08,Austin,Contract
+1144,Quinn,Flores,Quinn Flores,Sales,VP of Sales,208659,2022,2021-04-08,Austin,Contract
+1144,Quinn,Flores,Quinn Flores,Sales,VP of Sales,216111,2023,2021-04-08,Austin,Contract
+1144,Quinn,Flores,Quinn Flores,Sales,VP of Sales,214401,2024,2021-04-08,Austin,Contract
+1145,James,Campbell,James Campbell,Sales,VP of Sales,210726,2021,2020-05-04,Remote,Contract
+1145,James,Campbell,James Campbell,Sales,VP of Sales,229334,2022,2020-05-04,Remote,Contract
+1145,James,Campbell,James Campbell,Sales,VP of Sales,215816,2023,2020-05-04,Remote,Contract
+1145,James,Campbell,James Campbell,Sales,VP of Sales,227600,2024,2020-05-04,Remote,Contract
+1146,Wendy,Lewis,Wendy Lewis,Sales,VP of Sales,187881,2021,2020-12-16,San Francisco,Full-time
+1146,Wendy,Lewis,Wendy Lewis,Sales,VP of Sales,196349,2022,2020-12-16,San Francisco,Full-time
+1146,Wendy,Lewis,Wendy Lewis,Sales,VP of Sales,213460,2023,2020-12-16,San Francisco,Full-time
+1146,Wendy,Lewis,Wendy Lewis,Sales,VP of Sales,197350,2024,2020-12-16,San Francisco,Full-time
+1147,Henry,Anderson,Henry Anderson,Sales,VP of Sales,192246,2021,2019-01-04,Chicago,Full-time
+1147,Henry,Anderson,Henry Anderson,Sales,VP of Sales,202264,2022,2019-01-04,Chicago,Full-time
+1147,Henry,Anderson,Henry Anderson,Sales,VP of Sales,248947,2023,2019-01-04,Chicago,Full-time
+1147,Henry,Anderson,Henry Anderson,Sales,VP of Sales,254731,2024,2019-01-04,Chicago,Full-time
+1148,Elena,Walker,Elena Walker,Sales,VP of Sales,195237,2021,2019-05-11,Austin,Full-time
+1148,Elena,Walker,Elena Walker,Sales,VP of Sales,219372,2022,2019-05-11,Austin,Full-time
+1148,Elena,Walker,Elena Walker,Sales,VP of Sales,257533,2023,2019-05-11,Austin,Full-time
+1148,Elena,Walker,Elena Walker,Sales,VP of Sales,247548,2024,2019-05-11,Austin,Full-time
+1149,Laura,Williams,Laura Williams,Sales,VP of Sales,165933,2021,2021-08-06,Seattle,Full-time
+1149,Laura,Williams,Laura Williams,Sales,VP of Sales,179359,2022,2021-08-06,Seattle,Full-time
+1149,Laura,Williams,Laura Williams,Sales,VP of Sales,204781,2023,2021-08-06,Seattle,Full-time
+1149,Laura,Williams,Laura Williams,Sales,VP of Sales,232893,2024,2021-08-06,Seattle,Full-time
+1150,Frank,Rodriguez,Frank Rodriguez,Sales,VP of Sales,191920,2022,2022-08-09,San Francisco,Full-time
+1150,Frank,Rodriguez,Frank Rodriguez,Sales,VP of Sales,203419,2023,2022-08-09,San Francisco,Full-time
+1150,Frank,Rodriguez,Frank Rodriguez,Sales,VP of Sales,188818,2024,2022-08-09,San Francisco,Full-time
+1151,Sam,Torres,Sam Torres,Sales,VP of Sales,211365,2021,2019-03-20,Boston,Full-time
+1151,Sam,Torres,Sam Torres,Sales,VP of Sales,209912,2022,2019-03-20,Boston,Full-time
+1151,Sam,Torres,Sam Torres,Sales,VP of Sales,199066,2023,2019-03-20,Boston,Full-time
+1151,Sam,Torres,Sam Torres,Sales,VP of Sales,218726,2024,2019-03-20,Boston,Full-time
+1152,Yara,Thomas,Yara Thomas,Finance,Financial Analyst,71938,2021,2021-05-11,Austin,Contract
+1152,Yara,Thomas,Yara Thomas,Finance,Financial Analyst,87742,2022,2021-05-11,Austin,Contract
+1152,Yara,Thomas,Yara Thomas,Finance,Financial Analyst,78558,2023,2021-05-11,Austin,Contract
+1152,Yara,Thomas,Yara Thomas,Finance,Financial Analyst,89194,2024,2021-05-11,Austin,Contract
+1153,Grace,Rivera,Grace Rivera,Finance,Financial Analyst,78843,2021,2020-12-04,Seattle,Full-time
+1153,Grace,Rivera,Grace Rivera,Finance,Financial Analyst,92037,2022,2020-12-04,Seattle,Full-time
+1153,Grace,Rivera,Grace Rivera,Finance,Financial Analyst,101723,2023,2020-12-04,Seattle,Full-time
+1153,Grace,Rivera,Grace Rivera,Finance,Financial Analyst,100030,2024,2020-12-04,Seattle,Full-time
+1154,Elena,Carter,Elena Carter,Finance,Financial Analyst,81054,2022,2022-11-27,San Francisco,Full-time
+1154,Elena,Carter,Elena Carter,Finance,Financial Analyst,85504,2023,2022-11-27,San Francisco,Full-time
+1154,Elena,Carter,Elena Carter,Finance,Financial Analyst,86382,2024,2022-11-27,San Francisco,Full-time
+1155,Kate,Davis,Kate Davis,Finance,Financial Analyst,87733,2021,2018-09-17,San Francisco,Contract
+1155,Kate,Davis,Kate Davis,Finance,Financial Analyst,104151,2022,2018-09-17,San Francisco,Contract
+1155,Kate,Davis,Kate Davis,Finance,Financial Analyst,113115,2023,2018-09-17,San Francisco,Contract
+1155,Kate,Davis,Kate Davis,Finance,Financial Analyst,117905,2024,2018-09-17,San Francisco,Contract
+1156,Clara,Brown,Clara Brown,Finance,Financial Analyst,80477,2021,2021-03-17,Chicago,Full-time
+1156,Clara,Brown,Clara Brown,Finance,Financial Analyst,81440,2022,2021-03-17,Chicago,Full-time
+1156,Clara,Brown,Clara Brown,Finance,Financial Analyst,80511,2023,2021-03-17,Chicago,Full-time
+1156,Clara,Brown,Clara Brown,Finance,Financial Analyst,82164,2024,2021-03-17,Chicago,Full-time
+1157,Carlos,Ramirez,Carlos Ramirez,Finance,Senior Financial Analyst,105572,2021,2020-12-03,Remote,Full-time
+1157,Carlos,Ramirez,Carlos Ramirez,Finance,Senior Financial Analyst,112756,2022,2020-12-03,Remote,Full-time
+1157,Carlos,Ramirez,Carlos Ramirez,Finance,Senior Financial Analyst,130685,2023,2020-12-03,Remote,Full-time
+1157,Carlos,Ramirez,Carlos Ramirez,Finance,Senior Financial Analyst,152574,2024,2020-12-03,Remote,Full-time
+1158,Paul,Clark,Paul Clark,Finance,Senior Financial Analyst,116349,2021,2020-07-15,Boston,Full-time
+1158,Paul,Clark,Paul Clark,Finance,Senior Financial Analyst,121972,2022,2020-07-15,Boston,Full-time
+1158,Paul,Clark,Paul Clark,Finance,Senior Financial Analyst,124690,2023,2020-07-15,Boston,Full-time
+1158,Paul,Clark,Paul Clark,Finance,Senior Financial Analyst,125685,2024,2020-07-15,Boston,Full-time
+1159,Henry,Rodriguez,Henry Rodriguez,Finance,Senior Financial Analyst,123890,2021,2019-01-25,New York,Full-time
+1159,Henry,Rodriguez,Henry Rodriguez,Finance,Senior Financial Analyst,121464,2022,2019-01-25,New York,Full-time
+1159,Henry,Rodriguez,Henry Rodriguez,Finance,Senior Financial Analyst,125035,2023,2019-01-25,New York,Full-time
+1159,Henry,Rodriguez,Henry Rodriguez,Finance,Senior Financial Analyst,121030,2024,2019-01-25,New York,Full-time
+1160,Will,Davis,Will Davis,Finance,Finance Manager,137303,2021,2018-11-14,Remote,Full-time
+1160,Will,Davis,Will Davis,Finance,Finance Manager,165457,2022,2018-11-14,Remote,Full-time
+1160,Will,Davis,Will Davis,Finance,Finance Manager,193655,2023,2018-11-14,Remote,Full-time
+1160,Will,Davis,Will Davis,Finance,Finance Manager,154769,2024,2018-11-14,Remote,Full-time
+1161,Clara,Anderson,Clara Anderson,Finance,Finance Manager,145430,2022,2022-04-25,Boston,Full-time
+1161,Clara,Anderson,Clara Anderson,Finance,Finance Manager,149408,2023,2022-04-25,Boston,Full-time
+1161,Clara,Anderson,Clara Anderson,Finance,Finance Manager,150911,2024,2022-04-25,Boston,Full-time
+1162,Xena,Baker,Xena Baker,Finance,Finance Manager,132643,2021,2020-04-10,San Francisco,Contract
+1162,Xena,Baker,Xena Baker,Finance,Finance Manager,153954,2022,2020-04-10,San Francisco,Contract
+1162,Xena,Baker,Xena Baker,Finance,Finance Manager,177518,2023,2020-04-10,San Francisco,Contract
+1162,Xena,Baker,Xena Baker,Finance,Finance Manager,165825,2024,2020-04-10,San Francisco,Contract
+1163,Frank,Brown,Frank Brown,Finance,Finance Manager,136415,2021,2020-11-22,Chicago,Contract
+1163,Frank,Brown,Frank Brown,Finance,Finance Manager,139263,2022,2020-11-22,Chicago,Contract
+1163,Frank,Brown,Frank Brown,Finance,Finance Manager,160566,2023,2020-11-22,Chicago,Contract
+1163,Frank,Brown,Frank Brown,Finance,Finance Manager,168566,2024,2020-11-22,Chicago,Contract
+1164,Tara,Martinez,Tara Martinez,Finance,Finance Manager,123086,2021,2021-01-18,Chicago,Full-time
+1164,Tara,Martinez,Tara Martinez,Finance,Finance Manager,130149,2022,2021-01-18,Chicago,Full-time
+1164,Tara,Martinez,Tara Martinez,Finance,Finance Manager,162035,2023,2021-01-18,Chicago,Full-time
+1164,Tara,Martinez,Tara Martinez,Finance,Finance Manager,150449,2024,2021-01-18,Chicago,Full-time
+1165,Uri,Gonzalez,Uri Gonzalez,Finance,Finance Manager,169568,2021,2018-05-13,Seattle,Contract
+1165,Uri,Gonzalez,Uri Gonzalez,Finance,Finance Manager,162712,2022,2018-05-13,Seattle,Contract
+1165,Uri,Gonzalez,Uri Gonzalez,Finance,Finance Manager,184820,2023,2018-05-13,Seattle,Contract
+1165,Uri,Gonzalez,Uri Gonzalez,Finance,Finance Manager,194934,2024,2018-05-13,Seattle,Contract
+1166,Victor,Martin,Victor Martin,Finance,Finance Manager,169274,2021,2018-04-07,Seattle,Full-time
+1166,Victor,Martin,Victor Martin,Finance,Finance Manager,184370,2022,2018-04-07,Seattle,Full-time
+1166,Victor,Martin,Victor Martin,Finance,Finance Manager,178148,2023,2018-04-07,Seattle,Full-time
+1166,Victor,Martin,Victor Martin,Finance,Finance Manager,163758,2024,2018-04-07,Seattle,Full-time
+1167,Sam,Harris,Sam Harris,Finance,Finance Manager,132933,2021,2021-09-21,Austin,Full-time
+1167,Sam,Harris,Sam Harris,Finance,Finance Manager,128866,2022,2021-09-21,Austin,Full-time
+1167,Sam,Harris,Sam Harris,Finance,Finance Manager,153473,2023,2021-09-21,Austin,Full-time
+1167,Sam,Harris,Sam Harris,Finance,Finance Manager,176617,2024,2021-09-21,Austin,Full-time
+1168,Uma,Clark,Uma Clark,Finance,CFO,282223,2021,2018-10-28,San Francisco,Full-time
+1168,Uma,Clark,Uma Clark,Finance,CFO,334808,2022,2018-10-28,San Francisco,Full-time
+1168,Uma,Clark,Uma Clark,Finance,CFO,298502,2023,2018-10-28,San Francisco,Full-time
+1168,Uma,Clark,Uma Clark,Finance,CFO,329914,2024,2018-10-28,San Francisco,Full-time
+1169,Priya,Young,Priya Young,Finance,CFO,254431,2022,2022-11-22,Austin,Full-time
+1169,Priya,Young,Priya Young,Finance,CFO,284647,2023,2022-11-22,Austin,Full-time
+1169,Priya,Young,Priya Young,Finance,CFO,295674,2024,2022-11-22,Austin,Full-time
+1170,Wendy,Hernandez,Wendy Hernandez,Finance,CFO,297586,2021,2019-12-18,Chicago,Full-time
+1170,Wendy,Hernandez,Wendy Hernandez,Finance,CFO,279075,2022,2019-12-18,Chicago,Full-time
+1170,Wendy,Hernandez,Wendy Hernandez,Finance,CFO,308533,2023,2019-12-18,Chicago,Full-time
+1170,Wendy,Hernandez,Wendy Hernandez,Finance,CFO,382151,2024,2019-12-18,Chicago,Full-time
+1171,Will,Smith,Will Smith,Finance,CFO,237551,2021,2021-03-27,Seattle,Full-time
+1171,Will,Smith,Will Smith,Finance,CFO,263149,2022,2021-03-27,Seattle,Full-time
+1171,Will,Smith,Will Smith,Finance,CFO,279468,2023,2021-03-27,Seattle,Full-time
+1171,Will,Smith,Will Smith,Finance,CFO,344046,2024,2021-03-27,Seattle,Full-time
+1172,Qian,Young,Qian Young,Finance,CFO,280736,2021,2018-01-18,Remote,Full-time
+1172,Qian,Young,Qian Young,Finance,CFO,330957,2022,2018-01-18,Remote,Full-time
+1172,Qian,Young,Qian Young,Finance,CFO,315074,2023,2018-01-18,Remote,Full-time
+1172,Qian,Young,Qian Young,Finance,CFO,391542,2024,2018-01-18,Remote,Full-time
+1173,George,Miller,George Miller,HR,HR Coordinator,56318,2022,2022-03-08,San Francisco,Contract
+1173,George,Miller,George Miller,HR,HR Coordinator,54221,2023,2022-03-08,San Francisco,Contract
+1173,George,Miller,George Miller,HR,HR Coordinator,57251,2024,2022-03-08,San Francisco,Contract
+1174,Kate,Thomas,Kate Thomas,HR,HR Coordinator,64105,2021,2019-05-22,Boston,Full-time
+1174,Kate,Thomas,Kate Thomas,HR,HR Coordinator,59459,2022,2019-05-22,Boston,Full-time
+1174,Kate,Thomas,Kate Thomas,HR,HR Coordinator,64879,2023,2019-05-22,Boston,Full-time
+1174,Kate,Thomas,Kate Thomas,HR,HR Coordinator,56334,2024,2019-05-22,Boston,Full-time
+1175,Kevin,Garcia,Kevin Garcia,HR,HR Coordinator,56762,2021,2021-07-21,Boston,Full-time
+1175,Kevin,Garcia,Kevin Garcia,HR,HR Coordinator,55187,2022,2021-07-21,Boston,Full-time
+1175,Kevin,Garcia,Kevin Garcia,HR,HR Coordinator,53305,2023,2021-07-21,Boston,Full-time
+1175,Kevin,Garcia,Kevin Garcia,HR,HR Coordinator,70583,2024,2021-07-21,Boston,Full-time
+1176,Elena,Moore,Elena Moore,HR,HR Coordinator,57089,2021,2018-02-22,Austin,Contract
+1176,Elena,Moore,Elena Moore,HR,HR Coordinator,68622,2022,2018-02-22,Austin,Contract
+1176,Elena,Moore,Elena Moore,HR,HR Coordinator,78558,2023,2018-02-22,Austin,Contract
+1176,Elena,Moore,Elena Moore,HR,HR Coordinator,81814,2024,2018-02-22,Austin,Contract
+1177,Ethan,Martin,Ethan Martin,HR,HR Manager,93087,2021,2019-10-08,Remote,Full-time
+1177,Ethan,Martin,Ethan Martin,HR,HR Manager,98674,2022,2019-10-08,Remote,Full-time
+1177,Ethan,Martin,Ethan Martin,HR,HR Manager,110734,2023,2019-10-08,Remote,Full-time
+1177,Ethan,Martin,Ethan Martin,HR,HR Manager,101051,2024,2019-10-08,Remote,Full-time
+1178,Wendy,Brown,Wendy Brown,HR,HR Manager,98603,2021,2018-07-08,Boston,Full-time
+1178,Wendy,Brown,Wendy Brown,HR,HR Manager,107860,2022,2018-07-08,Boston,Full-time
+1178,Wendy,Brown,Wendy Brown,HR,HR Manager,103252,2023,2018-07-08,Boston,Full-time
+1178,Wendy,Brown,Wendy Brown,HR,HR Manager,115638,2024,2018-07-08,Boston,Full-time
+1179,Frank,Anderson,Frank Anderson,HR,HR Manager,89556,2021,2020-09-13,Chicago,Full-time
+1179,Frank,Anderson,Frank Anderson,HR,HR Manager,89321,2022,2020-09-13,Chicago,Full-time
+1179,Frank,Anderson,Frank Anderson,HR,HR Manager,104112,2023,2020-09-13,Chicago,Full-time
+1179,Frank,Anderson,Frank Anderson,HR,HR Manager,86986,2024,2020-09-13,Chicago,Full-time
+1180,Tara,Green,Tara Green,HR,HR Manager,78981,2021,2019-12-13,Austin,Full-time
+1180,Tara,Green,Tara Green,HR,HR Manager,90668,2022,2019-12-13,Austin,Full-time
+1180,Tara,Green,Tara Green,HR,HR Manager,89776,2023,2019-12-13,Austin,Full-time
+1180,Tara,Green,Tara Green,HR,HR Manager,97985,2024,2019-12-13,Austin,Full-time
+1181,James,Allen,James Allen,HR,HR Manager,83150,2021,2021-02-01,New York,Full-time
+1181,James,Allen,James Allen,HR,HR Manager,93470,2022,2021-02-01,New York,Full-time
+1181,James,Allen,James Allen,HR,HR Manager,85208,2023,2021-02-01,New York,Full-time
+1181,James,Allen,James Allen,HR,HR Manager,104066,2024,2021-02-01,New York,Full-time
+1182,James,Thomas,James Thomas,HR,HR Manager,77902,2022,2022-09-06,Seattle,Full-time
+1182,James,Thomas,James Thomas,HR,HR Manager,79232,2023,2022-09-06,Seattle,Full-time
+1182,James,Thomas,James Thomas,HR,HR Manager,84115,2024,2022-09-06,Seattle,Full-time
+1183,Elena,Jones,Elena Jones,HR,Senior HR Manager,106717,2021,2020-05-08,Seattle,Full-time
+1183,Elena,Jones,Elena Jones,HR,Senior HR Manager,110408,2022,2020-05-08,Seattle,Full-time
+1183,Elena,Jones,Elena Jones,HR,Senior HR Manager,129551,2023,2020-05-08,Seattle,Full-time
+1183,Elena,Jones,Elena Jones,HR,Senior HR Manager,143819,2024,2020-05-08,Seattle,Full-time
+1184,Victor,Lewis,Victor Lewis,HR,Senior HR Manager,107137,2021,2020-07-27,Boston,Contract
+1184,Victor,Lewis,Victor Lewis,HR,Senior HR Manager,117020,2022,2020-07-27,Boston,Contract
+1184,Victor,Lewis,Victor Lewis,HR,Senior HR Manager,133623,2023,2020-07-27,Boston,Contract
+1184,Victor,Lewis,Victor Lewis,HR,Senior HR Manager,138942,2024,2020-07-27,Boston,Contract
+1185,Steve,Green,Steve Green,HR,Senior HR Manager,113746,2021,2021-10-26,San Francisco,Full-time
+1185,Steve,Green,Steve Green,HR,Senior HR Manager,103906,2022,2021-10-26,San Francisco,Full-time
+1185,Steve,Green,Steve Green,HR,Senior HR Manager,122096,2023,2021-10-26,San Francisco,Full-time
+1185,Steve,Green,Steve Green,HR,Senior HR Manager,131088,2024,2021-10-26,San Francisco,Full-time
+1186,James,Johnson,James Johnson,HR,Senior HR Manager,98052,2021,2021-12-07,Chicago,Full-time
+1186,James,Johnson,James Johnson,HR,Senior HR Manager,121497,2022,2021-12-07,Chicago,Full-time
+1186,James,Johnson,James Johnson,HR,Senior HR Manager,112594,2023,2021-12-07,Chicago,Full-time
+1186,James,Johnson,James Johnson,HR,Senior HR Manager,116339,2024,2021-12-07,Chicago,Full-time
+1187,Julia,Rivera,Julia Rivera,HR,Senior HR Manager,105016,2021,2021-07-03,Chicago,Contract
+1187,Julia,Rivera,Julia Rivera,HR,Senior HR Manager,122342,2022,2021-07-03,Chicago,Contract
+1187,Julia,Rivera,Julia Rivera,HR,Senior HR Manager,122419,2023,2021-07-03,Chicago,Contract
+1187,Julia,Rivera,Julia Rivera,HR,Senior HR Manager,127422,2024,2021-07-03,Chicago,Contract
+1188,Maya,Green,Maya Green,HR,VP of People,186724,2021,2018-02-25,San Francisco,Full-time
+1188,Maya,Green,Maya Green,HR,VP of People,210428,2022,2018-02-25,San Francisco,Full-time
+1188,Maya,Green,Maya Green,HR,VP of People,241028,2023,2018-02-25,San Francisco,Full-time
+1188,Maya,Green,Maya Green,HR,VP of People,226921,2024,2018-02-25,San Francisco,Full-time
+1189,George,Smith,George Smith,HR,VP of People,200330,2021,2018-05-08,Remote,Contract
+1189,George,Smith,George Smith,HR,VP of People,186962,2022,2018-05-08,Remote,Contract
+1189,George,Smith,George Smith,HR,VP of People,218879,2023,2018-05-08,Remote,Contract
+1189,George,Smith,George Smith,HR,VP of People,221227,2024,2018-05-08,Remote,Contract
+1190,Bob,Walker,Bob Walker,HR,VP of People,209867,2021,2018-05-14,New York,Full-time
+1190,Bob,Walker,Bob Walker,HR,VP of People,190381,2022,2018-05-14,New York,Full-time
+1190,Bob,Walker,Bob Walker,HR,VP of People,229000,2023,2018-05-14,New York,Full-time
+1190,Bob,Walker,Bob Walker,HR,VP of People,198491,2024,2018-05-14,New York,Full-time
+1191,Uri,Hall,Uri Hall,HR,VP of People,150882,2021,2021-06-03,Austin,Full-time
+1191,Uri,Hall,Uri Hall,HR,VP of People,180103,2022,2021-06-03,Austin,Full-time
+1191,Uri,Hall,Uri Hall,HR,VP of People,172552,2023,2021-06-03,Austin,Full-time
+1191,Uri,Hall,Uri Hall,HR,VP of People,194825,2024,2021-06-03,Austin,Full-time
+1192,Laura,Scott,Laura Scott,HR,VP of People,173761,2021,2019-06-18,Chicago,Full-time
+1192,Laura,Scott,Laura Scott,HR,VP of People,188211,2022,2019-06-18,Chicago,Full-time
+1192,Laura,Scott,Laura Scott,HR,VP of People,181162,2023,2019-06-18,Chicago,Full-time
+1192,Laura,Scott,Laura Scott,HR,VP of People,206121,2024,2019-06-18,Chicago,Full-time
+1193,Leo,Ramirez,Leo Ramirez,HR,VP of People,169720,2021,2021-01-23,San Francisco,Full-time
+1193,Leo,Ramirez,Leo Ramirez,HR,VP of People,177239,2022,2021-01-23,San Francisco,Full-time
+1193,Leo,Ramirez,Leo Ramirez,HR,VP of People,188190,2023,2021-01-23,San Francisco,Full-time
+1193,Leo,Ramirez,Leo Ramirez,HR,VP of People,176835,2024,2021-01-23,San Francisco,Full-time
+1194,Hannah,Taylor,Hannah Taylor,HR,VP of People,159761,2021,2021-09-21,Austin,Contract
+1194,Hannah,Taylor,Hannah Taylor,HR,VP of People,164122,2022,2021-09-21,Austin,Contract
+1194,Hannah,Taylor,Hannah Taylor,HR,VP of People,169303,2023,2021-09-21,Austin,Contract
+1194,Hannah,Taylor,Hannah Taylor,HR,VP of People,207981,2024,2021-09-21,Austin,Contract
+1195,Leo,Garcia,Leo Garcia,Operations,Operations Analyst,74707,2021,2019-06-04,San Francisco,Full-time
+1195,Leo,Garcia,Leo Garcia,Operations,Operations Analyst,77896,2022,2019-06-04,San Francisco,Full-time
+1195,Leo,Garcia,Leo Garcia,Operations,Operations Analyst,91401,2023,2019-06-04,San Francisco,Full-time
+1195,Leo,Garcia,Leo Garcia,Operations,Operations Analyst,91387,2024,2019-06-04,San Francisco,Full-time
+1196,Iris,Hall,Iris Hall,Operations,Operations Analyst,73991,2021,2019-09-06,Chicago,Full-time
+1196,Iris,Hall,Iris Hall,Operations,Operations Analyst,75970,2022,2019-09-06,Chicago,Full-time
+1196,Iris,Hall,Iris Hall,Operations,Operations Analyst,77831,2023,2019-09-06,Chicago,Full-time
+1196,Iris,Hall,Iris Hall,Operations,Operations Analyst,90839,2024,2019-09-06,Chicago,Full-time
+1197,James,Allen,James Allen,Operations,Operations Analyst,70613,2021,2021-07-22,Chicago,Full-time
+1197,James,Allen,James Allen,Operations,Operations Analyst,75089,2022,2021-07-22,Chicago,Full-time
+1197,James,Allen,James Allen,Operations,Operations Analyst,77236,2023,2021-07-22,Chicago,Full-time
+1197,James,Allen,James Allen,Operations,Operations Analyst,74163,2024,2021-07-22,Chicago,Full-time
+1198,Sam,Hernandez,Sam Hernandez,Operations,Operations Analyst,65984,2021,2021-10-24,Boston,Full-time
+1198,Sam,Hernandez,Sam Hernandez,Operations,Operations Analyst,77938,2022,2021-10-24,Boston,Full-time
+1198,Sam,Hernandez,Sam Hernandez,Operations,Operations Analyst,79785,2023,2021-10-24,Boston,Full-time
+1198,Sam,Hernandez,Sam Hernandez,Operations,Operations Analyst,79859,2024,2021-10-24,Boston,Full-time
+1199,Uri,Lewis,Uri Lewis,Operations,Operations Analyst,78390,2022,2022-04-14,New York,Full-time
+1199,Uri,Lewis,Uri Lewis,Operations,Operations Analyst,72916,2023,2022-04-14,New York,Full-time
+1199,Uri,Lewis,Uri Lewis,Operations,Operations Analyst,80895,2024,2022-04-14,New York,Full-time
+1200,Hannah,Roberts,Hannah Roberts,Operations,Operations Analyst,86628,2021,2019-04-26,Seattle,Contract
+1200,Hannah,Roberts,Hannah Roberts,Operations,Operations Analyst,83962,2022,2019-04-26,Seattle,Contract
+1200,Hannah,Roberts,Hannah Roberts,Operations,Operations Analyst,95465,2023,2019-04-26,Seattle,Contract
+1200,Hannah,Roberts,Hannah Roberts,Operations,Operations Analyst,106475,2024,2019-04-26,Seattle,Contract
+1201,Kate,Thompson,Kate Thompson,Operations,Operations Analyst,74256,2022,2022-05-20,Remote,Full-time
+1201,Kate,Thompson,Kate Thompson,Operations,Operations Analyst,71172,2023,2022-05-20,Remote,Full-time
+1201,Kate,Thompson,Kate Thompson,Operations,Operations Analyst,90013,2024,2022-05-20,Remote,Full-time
+1202,George,Rodriguez,George Rodriguez,Operations,Operations Manager,94653,2021,2021-01-09,Boston,Full-time
+1202,George,Rodriguez,George Rodriguez,Operations,Operations Manager,102115,2022,2021-01-09,Boston,Full-time
+1202,George,Rodriguez,George Rodriguez,Operations,Operations Manager,118294,2023,2021-01-09,Boston,Full-time
+1202,George,Rodriguez,George Rodriguez,Operations,Operations Manager,109678,2024,2021-01-09,Boston,Full-time
+1203,Olivia,Moore,Olivia Moore,Operations,Operations Manager,106996,2021,2021-07-15,New York,Full-time
+1203,Olivia,Moore,Olivia Moore,Operations,Operations Manager,116637,2022,2021-07-15,New York,Full-time
+1203,Olivia,Moore,Olivia Moore,Operations,Operations Manager,112776,2023,2021-07-15,New York,Full-time
+1203,Olivia,Moore,Olivia Moore,Operations,Operations Manager,129938,2024,2021-07-15,New York,Full-time
+1204,Uri,Garcia,Uri Garcia,Operations,Operations Manager,107913,2021,2021-11-22,Seattle,Full-time
+1204,Uri,Garcia,Uri Garcia,Operations,Operations Manager,116917,2022,2021-11-22,Seattle,Full-time
+1204,Uri,Garcia,Uri Garcia,Operations,Operations Manager,116929,2023,2021-11-22,Seattle,Full-time
+1204,Uri,Garcia,Uri Garcia,Operations,Operations Manager,111826,2024,2021-11-22,Seattle,Full-time
+1205,James,Torres,James Torres,Operations,Operations Manager,123867,2021,2019-10-28,Chicago,Full-time
+1205,James,Torres,James Torres,Operations,Operations Manager,114981,2022,2019-10-28,Chicago,Full-time
+1205,James,Torres,James Torres,Operations,Operations Manager,121852,2023,2019-10-28,Chicago,Full-time
+1205,James,Torres,James Torres,Operations,Operations Manager,137551,2024,2019-10-28,Chicago,Full-time
+1206,David,Smith,David Smith,Operations,Operations Manager,110654,2021,2021-04-23,San Francisco,Full-time
+1206,David,Smith,David Smith,Operations,Operations Manager,109684,2022,2021-04-23,San Francisco,Full-time
+1206,David,Smith,David Smith,Operations,Operations Manager,108072,2023,2021-04-23,San Francisco,Full-time
+1206,David,Smith,David Smith,Operations,Operations Manager,118466,2024,2021-04-23,San Francisco,Full-time
+1207,Zach,Green,Zach Green,Operations,Operations Manager,98652,2021,2020-12-23,Boston,Full-time
+1207,Zach,Green,Zach Green,Operations,Operations Manager,103077,2022,2020-12-23,Boston,Full-time
+1207,Zach,Green,Zach Green,Operations,Operations Manager,114798,2023,2020-12-23,Boston,Full-time
+1207,Zach,Green,Zach Green,Operations,Operations Manager,125460,2024,2020-12-23,Boston,Full-time
+1208,Alice,Hall,Alice Hall,Operations,Operations Manager,101783,2021,2020-02-28,Chicago,Full-time
+1208,Alice,Hall,Alice Hall,Operations,Operations Manager,115700,2022,2020-02-28,Chicago,Full-time
+1208,Alice,Hall,Alice Hall,Operations,Operations Manager,110203,2023,2020-02-28,Chicago,Full-time
+1208,Alice,Hall,Alice Hall,Operations,Operations Manager,118822,2024,2020-02-28,Chicago,Full-time
+1209,Will,Rodriguez,Will Rodriguez,Operations,Operations Manager,107163,2021,2019-02-17,Remote,Full-time
+1209,Will,Rodriguez,Will Rodriguez,Operations,Operations Manager,110659,2022,2019-02-17,Remote,Full-time
+1209,Will,Rodriguez,Will Rodriguez,Operations,Operations Manager,143314,2023,2019-02-17,Remote,Full-time
+1209,Will,Rodriguez,Will Rodriguez,Operations,Operations Manager,135469,2024,2019-02-17,Remote,Full-time
+1210,Fiona,Miller,Fiona Miller,Operations,Director of Operations,165580,2021,2019-02-19,Seattle,Full-time
+1210,Fiona,Miller,Fiona Miller,Operations,Director of Operations,177939,2022,2019-02-19,Seattle,Full-time
+1210,Fiona,Miller,Fiona Miller,Operations,Director of Operations,185171,2023,2019-02-19,Seattle,Full-time
+1210,Fiona,Miller,Fiona Miller,Operations,Director of Operations,213678,2024,2019-02-19,Seattle,Full-time
+1211,Sam,Roberts,Sam Roberts,Operations,Director of Operations,171268,2021,2018-11-10,San Francisco,Contract
+1211,Sam,Roberts,Sam Roberts,Operations,Director of Operations,191002,2022,2018-11-10,San Francisco,Contract
+1211,Sam,Roberts,Sam Roberts,Operations,Director of Operations,226093,2023,2018-11-10,San Francisco,Contract
+1211,Sam,Roberts,Sam Roberts,Operations,Director of Operations,191420,2024,2018-11-10,San Francisco,Contract
+1212,Priya,Young,Priya Young,Operations,Director of Operations,141959,2022,2022-02-17,New York,Full-time
+1212,Priya,Young,Priya Young,Operations,Director of Operations,166376,2023,2022-02-17,New York,Full-time
+1212,Priya,Young,Priya Young,Operations,Director of Operations,174158,2024,2022-02-17,New York,Full-time
+1213,Will,Walker,Will Walker,Operations,Director of Operations,157983,2021,2018-01-19,New York,Full-time
+1213,Will,Walker,Will Walker,Operations,Director of Operations,184116,2022,2018-01-19,New York,Full-time
+1213,Will,Walker,Will Walker,Operations,Director of Operations,205327,2023,2018-01-19,New York,Full-time
+1213,Will,Walker,Will Walker,Operations,Director of Operations,207526,2024,2018-01-19,New York,Full-time
