@@ -6,7 +6,7 @@ colorTo: purple
 sdk: docker
 pinned: false
 license: mit
-short_description: Chat with your data — auto-generates tables and interactive charts
+short_description: Chat with your data, get tables and charts
 ---
 
 # AI Data Chatbot
