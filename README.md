@@ -3,9 +3,7 @@ title: AI Data Chatbot
 emoji: 📊
 colorFrom: blue
 colorTo: purple
-sdk: streamlit
-sdk_version: "1.40.0"
-app_file: app.py
+sdk: docker
 pinned: false
 license: mit
 short_description: Chat with your data — auto-generates tables and interactive charts
